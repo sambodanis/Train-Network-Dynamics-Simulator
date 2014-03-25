@@ -10,12 +10,16 @@ class Underground(object):
         self._lines = lines
         # self.stations = stations
         self.stations = stations
+        self.trains = set()
 
     def __getitem__(self, station):
         return self.stations[station]
 
+    # def add_train(self, train):
+    #     self.trains.add(train)
+
     def get_connection(self, station, line, direction):
-        possible_conns = self.stations[station]._connections
+        possible_conns = station._connections
         conns = filter(lambda x: x._line == line and 
                       x._direction == direction,
                       possible_conns)
@@ -64,29 +68,28 @@ directions = {'northbound': 'southbound',
 def reverse_direction(direction):
     res = None
     for k in directions:
-        print direction, k, directions[k]
         if k == direction:
             res = directions[k]
             break
         elif directions[k] == direction:
             res = k
             break
-    print 't', res
     return res
 
 class Train(object):
     """docstring for Train"""
-    def __init__(self, _id, start, line, direction):
+    def __init__(self, _id, start, line, direction, percent_done=0.0):
         self.id = _id
         self.location = start
         self.line = line
-        self.direction = direction      
+        self.direction = direction   
+        self.percent_done = percent_done
 
     def reverse_direction(self):
         self.direction = reverse_direction(self.direction)
 
     def __str__(self):
-        return ', '.join([str(self.id), self.location, self.line, self.direction])
+        return ', '.join([str(self.id), self.location._name, self.line._name, self.direction, str(self.percent_done)])
 
     def __repr__(self):
         return self.__str__()

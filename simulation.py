@@ -9,11 +9,10 @@ class State(object):
 	"""docstring for State"""
 	def __init__(self, ug):
 		self.ug = ug
-		self.trains = {}
+		# self.trains = {}
 		
 	def add_train(self, train):
-
-		self.trains[train] = (0.0, self.connect(train))
+		self.ug.trains.add(train)
 		# for s in self.trains:
 		# 	print self.trains[s][1]
 
@@ -21,28 +20,21 @@ class State(object):
 		return self.ug.get_connection(train.location, train.line, train.direction)
 
 	def travel(self, time):
-		for train in self.trains:
+		for train in self.ug.trains:
 			time_taken = 0.0
-			percent_done, curr_conn = self.trains[train]
-			# print percent_done
+			curr_conn = self.connect(train)
 			while True:
-				if (1.0 - percent_done) * curr_conn._min_time + time_taken < time:
-					# percent_done = 0.0 ## move below but fix self.connect crash
-					time_taken += (1.0 - percent_done) * curr_conn._min_time
-					# print time_taken, percent_done, curr_conn._min_time
-					percent_done = 0.0
+				if (1.0 - train.percent_done) * curr_conn._min_time + time_taken < time:
+					time_taken += (1.0 - train.percent_done) * curr_conn._min_time
+					train.percent_done = 0.0
 					train.location = curr_conn._end
-					print train.location
-					for c in self.ug[train.location]._connections:
-						print c
 					curr_conn = self.connect(train)
 					if not curr_conn:
 						train.reverse_direction()
 						curr_conn = self.connect(train)
 				else:
-					percent_done = (time - time_taken) / curr_conn._min_time
+					train.percent_done = (time - time_taken) / curr_conn._min_time
 					break
-			self.trains[train] = (percent_done, curr_conn)
 			time_taken = 0.0
 
 
@@ -68,14 +60,17 @@ def main():
 
 	# print ug.path('green_park', 'camden_town')
 	s = State(ug)
-	s.add_train(Train(1, 'burnt_oak', 'northern', 'northbound'))
+	station = ug['burnt_oak']
+	line = ug._lines['northern']
+	direction = 'northbound'
+	s.add_train(Train(1, station, line, direction))
 	# s.add_train(Train(2, 'euston', 'northern', 'southbound'))
 	s.travel(10)
-	for train in s.trains:
-		print s.trains[train][0], s.trains[train][1], train.id
+	for train in s.ug.trains:
+		print train
 	s.travel(10)
-	for train in s.trains:
-		print s.trains[train][0], s.trains[train][1]
+	for train in s.ug.trains:
+		print train
 
 
 	## Floyd Warshall method for reachability

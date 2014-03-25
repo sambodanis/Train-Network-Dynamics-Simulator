@@ -1,12 +1,3 @@
-
-self.types = {'northbound': 'southbound',
-                      'eastbound': 'westbound',
-                      'outer': 'inner'}
-        
-def reverse_direction(self):
-    for k in self.types:
-
-
 class Node:
     def __init__(self, data, next):
         self.data = data

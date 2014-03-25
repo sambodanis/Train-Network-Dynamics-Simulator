@@ -78,7 +78,6 @@ def ug_from_dist_file(conn):
 
         if c._line not in lines:
             lines[c._line] = nc.Line(c._line)
-        # lines[c._line].add_station(c._start)
         lines[c._line].add_station(stations[c._start])
         lines[c._line].directions.add(c._direction)
         c._line = lines[c._line]
@@ -96,13 +95,13 @@ def load_underground():
     connections = read_station_distance()
     # ug = merge_ug_connections(ug, connections)
     ug = ug_from_dist_file(connections)
-    print [x._end._name for x in ug['belsize_park']._connections], [x._name for x in ug['belsize_park']._lines]
+    
     return ug
 
 
 def main():
-    load_underground()
-
+    ug = load_underground()
+    print [x for x in ug['belsize_park']._connections], [x for x in ug['belsize_park']._lines]
 
     # uground = nc.Underground(net)
 
