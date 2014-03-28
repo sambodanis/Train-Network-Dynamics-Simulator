@@ -61,17 +61,17 @@ class Underground(object):
                     prev[conn._end] = (curr, dist)
         return None
 
-directions = {'northbound': 'southbound',
+__directions = {'northbound': 'southbound',
               'eastbound': 'westbound',
               'outer': 'inner'}
         
 def reverse_direction(direction):
     res = None
-    for k in directions:
+    for k in __directions:
         if k == direction:
-            res = directions[k]
+            res = __directions[k]
             break
-        elif directions[k] == direction:
+        elif __directions[k] == direction:
             res = k
             break
     return res
@@ -107,7 +107,7 @@ class Connection(object):
         self._inter_peak = float(inter_peak)
 
     def __str__(self):
-        return ' -> '.join([self._start._name, self._end._name])
+        return ' '.join([self._start._name, '->', self._end._name, self._line._name, self._direction])
 
     def __repr__(self):
         return self.__str__()
