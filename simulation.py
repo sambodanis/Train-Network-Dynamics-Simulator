@@ -3,8 +3,6 @@ from netClasses import *
 from heapq import *
 import parsing
 import random
-# import numpy as np
-# import matplotlib.pyplot as plt
 
 
 class State(object):
@@ -57,23 +55,41 @@ class State(object):
 
 
 def path(ug, start, end):
-    path = []
+
+    class Path(object):
+
+        """docstring for Path"""
+
+        def __init__(self):
+            super(Path, self).__init__()
+            self.p = []
+            self.cost = 0
+
+        def add(self, np):
+            self.cost += np.inter_peak
+            self.p += [np]
+
+        def pop_copy(self):
+            res = Path()
+            for x in range(len(self.p) - 1):
+                res.add(self.p[x])
+            return res
+    path = Path()
     pq = []
     fixed = {}
-    # heappush(pq, (0, [start]))
     while start != end:
         if start.name not in fixed:
-            fixed[start.name] = sum([x.min_time for x in path])
+            fixed[start.name] = path.cost
             for conn in start.connections:
                 if conn.end.name not in fixed:
-                    path += [conn]
-                    heappush(pq, (sum([x.min_time for x in path]), path))
-                    path = path[:-1]
+                    path.add(conn)
+                    heappush(pq, (path.cost, path))
+                    path = path.pop_copy()
         if len(pq) == 0:
             return []
         cost, path = heappop(pq)
-        start = path[-1].end
-    return path, cost
+        start = path.p[-1].end
+    return path.p, path.cost
 
 
 def degree_distribution(ug):
@@ -91,21 +107,37 @@ def generate_trains(ug, n):
     return trains
 
 
+def plot_degree_distribution(ug):
+    import numpy as np
+    import matplotlib.pyplot as plt
+    degrees = degree_distribution(ug)
+    freq = [0] * max(degrees)
+    degs = range(0, max(degrees))
+    print freq
+    for i in degrees:
+        freq[i - 1] += 1
+    print len(degs), len(freq)
+    fig = plt.figure()
+    fig.suptitle('Degree distribution', fontsize=14, fontweight='bold')
+    ax = fig.add_subplot(111)
+    fig.subplots_adjust(top=0.85)
+    ax.set_xlabel('Degree')
+    ax.set_ylabel('Frequency')
+    ax.plot(degs, freq)
+    plt.show()
+    print freq
+
+
 def main():
     ug = parsing.load_underground()
+    # plot_degree_distribution(ug)
     # for line in ug.lines:
     #   print line
-    # degrees = degree_distribution(ug)
-    # freq = [0] * 10
-    # degs = range(1, 11)
-    # print freq
-    # for i in degrees:
-    #   freq[i-1] += 1
-    # plt.plot(degs, freq)
-    # plt.show()
+
     # print len(ug.stations)
     # ug['belsize_park'].pprint()
-    p, cost = path(ug, ug['belsize_park'], ug['waterloo'])
+
+    p, cost = path(ug, ug['belsize_park'], ug['green_park'])
     for k in p:
         print k, k.min_time
     print cost
