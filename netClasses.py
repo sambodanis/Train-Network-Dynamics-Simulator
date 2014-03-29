@@ -33,36 +33,6 @@ class Underground(object):
     def lines(self):
         return self.lines.keys()
 
-    def path(self, start, end):
-        visited = set()
-        prev = {}
-        h = []
-        heappush(h, (start, 0))
-        # for s in self.stations:
-        #   if s.name != start:
-        #       heappush(h, (s, float('inf')))
-        while len(h) > 0:
-            curr, dist = heappop(h)
-            print curr, dist
-            if curr == end:
-                route = []
-                while curr != start:
-                    route.append(curr)
-                    curr, dist = prev[curr]
-                route.append(curr)
-                route.reverse()
-                return route
-            for conn in self.stations[curr.name].connections:
-                print conn,
-                alt = dist + conn.min_time
-                # if conn.line.name != curr.line
-                # print alt
-                if conn.end not in prev or alt < prev[conn.end][1]:
-                    new = (conn.end, alt)
-                    heappush(h, new)
-                    prev[conn.end] = (curr, dist)
-        return None
-
 __directions = {'northbound': 'southbound',
                 'eastbound': 'westbound',
                 'outer': 'inner'}

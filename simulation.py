@@ -18,7 +18,7 @@ class State(object):
     def add_train(self, train):
         self.ug.trains.add(train)
         # for s in self.trains:
-        # 	print self.trains[s][1]
+        #   print self.trains[s][1]
 
     def connect(self, train):
         t = self.ug.get_connection(train.location, train.line, train.direction)
@@ -39,7 +39,7 @@ class State(object):
             time_taken = 0.0
             curr_conn = self.connect(train)
             # for train in self.ug.trains:
-            # 	print train
+            #   print train
             # print curr_conn
             while True:
                 if (1.0 - train.percent_done) * curr_conn.min_time + time_taken < time:
@@ -56,17 +56,24 @@ class State(object):
             time_taken = 0.0
 
 
-# def path(ug, start, end):
-#     pq = [(float('inf'), ug[x]) for x in ug.stations if x != start]
-#     prev = {}
-#     heappush(pq, (0, start))
-#     while len(pq) > 0:
-#         dist, curr_s = heappop(pq)
-#         if curr_s = end:
-#             print 'Found the path!'
-#         for conn in curr_s.connections:
-#             alt = dist + conn.min_time
-#             if conn.end not in prev or
+def path(ug, start, end):
+    path = []
+    pq = []
+    fixed = {}
+    # heappush(pq, (0, [start]))
+    while start != end:
+        if start.name not in fixed:
+            fixed[start.name] = sum([x.min_time for x in path])
+            for conn in start.connections:
+                if conn.end.name not in fixed:
+                    path += [conn]
+                    heappush(pq, (sum([x.min_time for x in path]), path))
+                    path = path[:-1]
+        if len(pq) == 0:
+            return []
+        cost, path = heappop(pq)
+        start = path[-1].end
+    return path, cost
 
 
 def degree_distribution(ug):
@@ -87,18 +94,21 @@ def generate_trains(ug, n):
 def main():
     ug = parsing.load_underground()
     # for line in ug.lines:
-    # 	print line
+    #   print line
     # degrees = degree_distribution(ug)
     # freq = [0] * 10
     # degs = range(1, 11)
     # print freq
     # for i in degrees:
-    # 	freq[i-1] += 1
+    #   freq[i-1] += 1
     # plt.plot(degs, freq)
     # plt.show()
     # print len(ug.stations)
     # ug['belsize_park'].pprint()
-    # print ug.path(ug['belsize_park'], ug['waterloo'])
+    p, cost = path(ug, ug['belsize_park'], ug['waterloo'])
+    for k in p:
+        print k, k.min_time
+    print cost
 
     # s = State(ug)
     # map(lambda x: s.add_train(x), generate_trains(ug, 525))
