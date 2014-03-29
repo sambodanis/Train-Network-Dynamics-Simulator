@@ -1,0 +1,807 @@
+!scope=row|[[Acton Town tube station|Acton Town]]
+| [[File:ActonTown1.jpg|100px|alt=A brown-bricked building with a flat-slabbed roof and six columns of windows on the front face standing below a blue sky with white butts|Acton Town]] || [[District line|District]]<br>[[Piccadilly line|Piccadilly]] || [[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1879|July|1}}}} || {{sort|z|}} || Mill Hill Park: 1879–1910 || {{ctr|{{nts|5.46}}}}
+|-
+!scope=row|[[Aldgate tube station|Aldgate]]
+|[[File:Aldgate-Station-Entrance.jpg|100px|alt=A light grey building with "M.R ALDGATE STATION M.R." written in stone on the front face and a black car driving in the foreground|Aldgate]] || [[Metropolitan line|Metropolitan]]{{ref label|a|a|^}}<br>[[Circle line (London Underground)|Circle]] || [[City of London]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1876|November|18}}}} || {{sort|z|}} ||  || {{ctr|{{nts|6.24}}}}
+|-
+!scope=row|[[Aldgate East tube station|Aldgate East]]
+|[[File:London U-Bahn Aldgate East Eingang.jpg|100px|alt=A building flanked by green, wooden walls with three people standing outside and one person walking by all under a clear, blue sky|Aldgate&nbsp;East]] || [[Hammersmith & City line|Hammersmith & City]]{{ref label|d|d|1}}<br>[[District line|District]] || [[London Borough of Tower Hamlets|Tower Hamlets]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1884|October|6}}<br><small>resited 31 October 1938}} || {{sort|z|}} || Commercial Road: <small>Proposed before opening || {{ctr|{{nts|9.16}}}}
+|-
+!scope=row|[[Alperton tube station|Alperton]]
+|[[File:Alperton station building.JPG|100px|alt=A red-bricked building with a grey-slabbed roof and "ALPERTON STATION" written in stone just under the roof all under a blue sky with white butts|Alperton]] || [[Piccadilly line|Piccadilly]]{{ref label|h|h|1}} || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1903|June|28}}}} || {{sort|z|}} || Perivale-Alperton: 1903–10 || {{ctr|{{nts|2.95}}}}
+|-
+!scope=row|[[Amersham station|Amersham]]
+| [[File:Amersham Tube Station.JPG|100px|alt=A long building with two chimneys protruding from its roof and four cars driving from left to right across a paved area in the foreground|Amersham]] || [[Metropolitan line|Metropolitan]] || [[Chiltern (district)|Chiltern]] || {{ctr|[[Travelcard Zones 7-9|9]]}} || {{ctr|{{dts|format=dmy|1892|September|1}}}} || {{sort|z|}} || Amersham: 1892–1922<br />Amersham & Chesham Bois: 1922–34 || {{ctr|{{nts|2.10}}}}
+|-
+!scope=row|[[Angel tube station|Angel]]
+| [[File:Gb-lu-Angel-southbound.jpg|100px|alt=The interior of a building with a rounded roof and walls, several doors on the right, railway tracks on the left, and three people walking in the middle|Angel]] || [[Northern line|Northern]] || [[London Borough of Islington|Islington]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1901|November|17}}}} || {{sort|z|}} ||  || {{ctr|{{nts|17.78}}}}
+|-
+!scope=row|[[Archway tube station|Archway]]
+|[[File:Archway station side entrance.JPG|100px|alt=A doorway with a sign above it stating "ARCHWAY STATION" in white letters on a blue background all under two large, grey vents that are side-by-side|Archway]] || [[Northern line|Northern]] || [[London Borough of Islington|Islington]] || {{ctr|[[Travelcard Zone 2|2]] & [[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1907|June|22}}}} || {{sort|z|}} || Archway Tavern: <small>Proposed before opening</small><br />Highgate: 1907–39<br />Archway (Highgate): 1939–41<br />Highgate (Archway): 1941–47 || {{ctr|{{nts|8.08}}}}
+|-
+!scope=row|[[Arnos Grove tube station|Arnos Grove]]
+|[[File:Arnos Grove stn building.JPG|100px|alt=A building with a rectangular first floor and a circular second floor composed of red-bricked walls, a grey-slabbed roof, and several columns of windows|Arnos Grove]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Enfield|Enfield]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1932|September|19}}}} || {{sort|z|}} || Bowes Road: <small>Proposed before opening</small> || {{ctr|{{nts|4.16}}}}
+|-
+!scope=row|[[Arsenal tube station|Arsenal]]
+|[[File:Arsenal station entrance.JPG|100px|alt=A light grey building with a sign stating "ARSENAL STATION" in white letters on a blue background and four bicycles laying idle in the foreground|Arsenal]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Islington|Islington]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1906|December|15}}}} || {{sort|z|}} || Gillespie Road: 1906–32<br />Arsenal (Highbury Hill): 1932– <small>suffix gradually dropped</small> || {{ctr|{{nts|3.07}}}}
+|-
+!scope=row|[[Baker Street tube station|Baker Street]]
+|[[File:BakerStEntrance.JPG|100px|alt=A street filled with people in front of a light grey building that has variously coloured signs protruding from it stating a variety of different things|Baker Street]] || [[Metropolitan line|Metropolitan]]{{ref label|b|b|1}}<br>[[Bakerloo line|Bakerloo]]<br>[[Circle line (London Underground)|Circle]]<br>[[Jubilee line|Jubilee]]<br>[[Hammersmith & City line|Hammersmith & City]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1863|January|10}}}} || {{sort|z|}} ||  || {{ctr|{{nts|27.02}}}}
+|-
+!scope=row|[[Balham station#London Underground station|Balham]]
+|[[File:Balham station.jpg|100px|alt=A street with twelve people walking on it and two cars driving on it with three buildings in the background and a grey sky overhead|Balham]] || [[Northern line|Northern]] || [[London Borough of Wandsworth|Wandsworth]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1926|December|6}}}} || {{sort|z|}} ||  || {{ctr|{{nts|11.46}}}}
+|-
+!scope=row|[[Bank–Monument station|Bank]]
+| [[File:Bank station westbound Central look east.JPG|100px|alt=The interior of a building with a rounded roof and walls, a grey door on the left, a railway track on the right, and a man walking in the middle|Bank]] || [[Waterloo & City line|Waterloo & City]]<br>[[Northern line|Northern]]<br>[[Central line|Central]] || [[City of London]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1898|August|8}}}} || {{sort|z|}} || City <small>(W&C line)</small>: 1898–1940<br />Lombard Street <small>(Northern line)</small>: <small>Proposed before opening</small> || {{ctr|{{nts|47.80}}<br/><ref name="B&M" group="note">Bank and Monument operate as a combined station with shared usage statistics.</ref>}}
+|-
+!scope=row|[[Barbican tube station|Barbican]]
+| [[File:Barbican.tube.onthecircle.london.arp.jpg|100px|alt=A red train with a grey top and a black sign that reads "CIRCLE LINE" in yellow letters is on railway tracks leading from the background to the foreground.|Barbican]] || [[Metropolitan line|Metropolitan]]{{ref label|b|b|2}}<br>[[Circle line (London Underground)|Circle]]<br>[[Hammersmith & City line|Hammersmith & City]] || [[City of London]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1865|December|23}}}} || {{sort|z|}} || Aldersgate Street: 1865–1910<br />Aldersgate: 1910–23<br />Aldersgate & Barbican: 1923–68 || {{ctr|{{nts|9.23}}}}
+|-
+!scope=row|[[Barking station|Barking]]
+| [[File:Barkinglongview.jpg|100px|alt=A grey building with windows stands under a clear, blue sky as people mill about on the sidewalk in front of the building and vehicles traverse the foreground.|Barking]]  || [[District line|District]]{{ref label|j|j|1}}<br>[[Hammersmith & City line|Hammersmith & City]] || [[London Borough of Barking and Dagenham|Barking and Dagenham]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1902|June|2}}}} || {{ctr|{{dts|format=dmy|1854|June|13}}}} ||  || {{ctr|{{nts|13.96}}}}
+|-
+!scope=row|[[Barkingside tube station|Barkingside]]
+| [[File:Barkingside full stn building.JPG|100px|alt=A red-bricked building with a sloping, black roof, four chimneys, and a sign that reads "UNDERGROUND" under a blue sky with white butts|Barkingside]] || [[Central line|Central]] || [[London Borough of Redbridge|Redbridge]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1948|May|31}}}} || {{ctr|{{dts|format=dmy|1903|May|1}}}} ||  || {{ctr|{{nts|1.16}}}}
+|-
+!scope=row|[[Barons Court tube station|Barons Court]]
+| [[File:Barons-court-tube.jpg|100px|alt=A brown building with a sign that reads "BARONS COURT STATION DISTRICT RAILWAY" under a blue sky with white butts with two cars in the foreground|Barons Court]]  || [[District line|District]]<br>[[Piccadilly line|Piccadilly]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1905|October|9}}}} || {{sort|z|}} ||  || {{ctr|{{nts|6.54}}}}
+|-
+!scope=row|[[Bayswater tube station|Bayswater]]
+| [[File:Bayswater Station Exterior.jpg|100px|alt=A white-bricked building with a clear, sloped roof and a sign that reads "BAYSWATER STATION" in white letters on a blue background|Bayswater]]  || [[District line|District]]{{ref label|c|c|1}}<br>[[Circle line (London Underground)|Circle]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1868|October|1}}}} || {{sort|z|}} || Bayswater: 1868–1923<br />Bayswater (Queen's Road) & Westbourne Grove: 1923–33<br />Bayswater (Queen's Road): 1933–46<br />Bayswater (Queensway): 1946– <small>suffix gradually dropped</small> || {{ctr|{{nts|5.10}}}}
+|-
+!scope=row|[[Becontree tube station|Becontree]]
+| [[File:Becontree station building.JPG|100px|alt=A red-bricked building with five people standing in front of it and a blue sign reading "BECONTREE STATION" all under a clear, blue sky|Becontree]] || [[District line|District]] || [[London Borough of Barking and Dagenham|Barking and Dagenham]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1932|July|18}}}} || {{ctr|{{dts|format=dmy|1926|June|28}}}} || Gale Street: 1926–32 || {{ctr|{{nts|2.76}}}}
+|-
+!scope=row|[[Belsize Park tube station|Belsize Park]]
+| [[File:Belsize Park stn building.JPG|100px|alt=A red-bricked building with eight people standing in front of it and a blue sign reading "BELSIZE PARK STATION" in white letters all under a bright sky|Belsize Park]] || [[Northern line|Northern]] || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1907|June|22}}}} || {{sort|z|}} || Belsize: <small>Proposed before opening</small> || {{ctr|{{nts|5.75}}}}
+|-
+!scope=row|[[Bermondsey tube station|Bermondsey]]
+| [[File:Bermondsey.jpg|100px|alt=A grey building with a blue sign reading "BERMONDSEY STATION" in white letters and four bicycles lying idle in the foreground all under a blue sky|Bermondsey]] || [[Jubilee line|Jubilee]] || [[London Borough of Southwark|Southwark]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1999|September|17}}}} || {{sort|z|}} ||  || {{ctr|{{nts|7.38}}}}
+|-
+!scope=row|[[Bethnal Green tube station|Bethnal Green]]
+| [[File:Bethnal Green stn eastbound look east.JPG|100px|alt=The interior of a building with a rounded roof and walls, a railway track on the left, some doors on the right, and a man walking in the middle|Bethnal Green]] || [[Central line|Central]] || [[London Borough of Tower Hamlets|Tower Hamlets]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1946|December|4}}}} || {{sort|z|}} || Bethnal: <small>Proposed before opening</small> || {{ctr|{{nts|15.09}}}}
+|-
+!scope=row|[[Blackfriars station#London Underground|Blackfriars]]
+| [[File:Blackfriars.tube.station.london.arp.jpg|100px|alt=A red and grey train with a black sign that reads "UPMINSTER" in yellow letters is on railway tracks leading from the background to the foreground.|Blackfriars]] || [[District line|District]]{{ref label|i|i|1}}<br>[[Circle line (London Underground)|Circle]] || [[City of London]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1870|May|30}}}} || {{sort|z|}} ||  || {{ctr|{{nts|12.07}}}}
+|-
+!scope=row|[[Blackhorse Road station|Blackhorse Road]]
+| [[File:Blackhorse Road stn building.JPG|100px|alt=A building with a blue sign reading "BLACKHORSE ROAD STATION" in white letters and several people and cars in the foreground all under a blue sky|Blackhorse Road]] || [[Victoria line|Victoria]] || [[London Borough of Waltham Forest|Waltham Forest]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1968|September|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|6.47}}}}
+|-
+!scope=row|[[Bond Street tube station|Bond Street]]
+| [[File:Bond Street stn Central line westbound.JPG|100px|alt=The interior of a building with a rounded ceiling and walls and doors on the left, a railway track on the right, and people walking in the middle|Bond Street]]  || [[Central line|Central]]<br>[[Jubilee line|Jubilee]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1900|September|24}}}} || {{sort|z|}} || Davies Street: <small>Proposed before opening</small><br />Selfridge's: Proposed in 1909 || {{ctr|{{nts|36.02}}}}
+|-
+!scope=row|[[Borough tube station|Borough]]
+| [[File:Borough tube station 2005-11-27.jpg|100px|alt=A brown- and tan-tiled building with a blue sign reading "BOROUGH STATION" in white letters and several people walking around all under a blue sky|Borough]]  || [[Northern line|Northern]] || [[London Borough of Southwark|Southwark]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1890|December|18}}}} || {{sort|z|}} ||  || {{ctr|{{nts|4.57}}}}
+|-
+!scope=row|[[Boston Manor tube station|Boston Manor]]
+| [[File:Boston Manor stn building.JPG|100px|alt=A red-bricked building with a blue sign reading "BOSTON MANOR STATION" and a person in the foreground all under a blue sky with white butts|Boston Manor]] || [[Piccadilly line|Piccadilly]]{{ref label|l|l|1}} || [[London Borough of Ealing|Ealing]]<br>[[London Borough of Hounslow|Hounslow]]  ||  {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1883|May|1}}}} || {{sort|z|}} || Boston Road: 1883–1911 || {{ctr|{{nts|1.89}}}}
+|-
+!scope=row|[[Bounds Green tube station|Bounds Green]]
+| [[File:Bounds Green stn building.jpg|100px|alt=A red-bricked building with a blue sign reading "BOUNDS GREEN" in white letters and several people walking in the foreground all under a blue sky|Bounds Green]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Haringey|Haringey]] || {{ctr|[[Travelcard Zone 3|3]] & [[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1932|September|19}}}} || {{sort|z|}} || Brownlow Road: <small>Proposed before opening</small> || {{ctr|{{nts|5.59}}}}
+|-
+!scope=row|[[Bow Road tube station|Bow Road]]
+| [[File:Bow Road stn building.JPG|100px|alt=A red-bricked building with a blue sign reading "BOW ROAD STATION" in white letters and a tree in the foreground all under a blue sky with white butts|Bow Road]] || [[District line|District]]{{ref label|j|j|2}}<br>[[Hammersmith & City line|Hammersmith & City]] || [[London Borough of Tower Hamlets|Tower Hamlets]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1902|June|11}}}} || {{sort|z|}} ||  || {{ctr|{{nts|5.08}}}}
+|-
+!scope=row|[[Brent Cross tube station|Brent Cross]]
+| [[File:Brent Cross stn building.JPG|100px|alt=A red-bricked building with "BRENT CROSS STATION" written on it and light grey pillars making up the facade all under a blue sky with white butts|Brent Cross]] || [[Northern line|Northern]] || [[London Borough of Barnet|Barnet]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1923|November|19}}}} || {{sort|z|}} || Woodstock: <small>Proposed before opening</small><br />Brent: 1923–76 || {{ctr|{{nts|2.21}}}}
+|-
+!scope=row|[[Brixton tube station|Brixton]]
+|align=center|[[File:BrixtonTubeStation.jpg|80px|alt=A building with scaffolding around it and a large window with a sign reading "UNDERGROUND" in white letters on a blue rectangle|Brixton]] || [[Victoria line|Victoria]] || [[London Borough of Lambeth|Lambeth]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1971|July|23}}}} || {{sort|z|}} ||  || {{ctr|{{nts|22.51}}}}
+|-
+!scope=row|[[Bromley-by-Bow tube station|Bromley-by-Bow]]
+| [[File:Bromley-by-Bow tube station 2005-12-10.jpg|100px|alt=Three people walking on a platform, the one on the left boarding a train, the one in the middle carrying bags, and the one on the right walking through a door|Bromley-by-Bow]] || [[District line|District]]{{ref label|j|j|3}}<br>[[Hammersmith & City line|Hammersmith & City]] || [[London Borough of Tower Hamlets|Tower Hamlets]] || {{ctr|[[Travelcard Zone 2|2]] & [[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1902|June|2}}}} || {{ctr|{{dts|format=dmy|1858|March|31}}}} || Bromley: 1858–1968 || {{ctr|{{nts|2.75}}}}
+|-
+!scope=row|[[Buckhurst Hill tube station|Buckhurst Hill]]
+| [[File:Buckhurst Hill stn building.JPG|100px|alt=A red-bricked building with a blue sign reading "BUCKHURST HILL STATION" in white letters and four cars parked in the foreground|Buckhurst Hill]] || [[Central line|Central]] || [[Epping Forest (district)|Epping Forest]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1948|November|21}}}} || {{ctr|{{dts|format=dmy|1856|August|22}}}} ||  || {{ctr|{{nts|1.85}}}}
+|-
+!scope=row|[[Burnt Oak tube station|Burnt Oak]]
+| [[File:Burnt Oak stn building.JPG|100px|alt=A red-bricked building with a blue sign reading "BURNT OAK STATION" in white letters and four surveillance cameras in front of the doors|Burnt Oak]] || [[Northern line|Northern]] || [[London Borough of Barnet|Barnet]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1924|October|27}}}} || {{sort|z|}} || Sheaves Hill/Orange Hill/Deansbrook: <small>Proposed before opening</small><br />Burnt Oak: 1924–28<br />Burnt Oak (Watling): 1928– <small>suffix gradually dropped</small> || {{ctr|{{nts|3.79}}}}
+|-
+!scope=row|[[Caledonian Road tube station|Caledonian Road]]
+| [[File:Caledonian Road stn building.JPG|100px|alt=A red-bricked building with "CALEDONIAN RD." in gold letters and a blue sign reading "CALEDONIAN ROAD STATION" in white letters below|Caledonian Road]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Islington|Islington]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1906|December|15}}}} || {{sort|z|}} || Barnsbury: <small>Proposed before opening</small> || {{ctr|{{nts|5.27}}}}
+|-
+!scope=row|[[Camden Town tube station|Camden Town]]
+| [[File:Camden Town stn building.JPG|100px|alt=A red-bricked building with a blue sign reading "CAMDEN TOWN STATION" in white letters and a red sign reading "FIRST CHOICE RESTAURANT" in white letters|Camden Town]] || [[Northern line|Northern]] || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1907|June|22}}}} || {{sort|z|}} || Camden Road: <small>Proposed before opening</small> || {{ctr|{{nts|20.99}}}}
+|-
+!scope=row|[[Canada Water station|Canada Water]]
+| [[File:Canada Water station building.JPG|100px|alt=A circular building that has large windows making up its walls so that the interior of the building is visible and the building's surroundings are partially reflected|Canada Water]] ||[[Jubilee line|Jubilee]] || [[London Borough of Southwark|Southwark]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1999|September|17}}}} || {{sort|z|}} ||  || {{ctr|{{nts|9.91}}}}
+|-
+!scope=row|[[Canary Wharf tube station|Canary Wharf]]
+| [[File:Canary wharf tube station 750px.jpg|100px|alt=A wide, grey archway with a blue sign reading "CANARY WHARF STATION" in white letters and a man in a black suit walking through|Canary Wharf]] || [[Jubilee line|Jubilee]] || [[London Borough of Tower Hamlets|Tower Hamlets]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1999|September|17}}}} || {{sort|z|}} ||  || {{ctr|{{nts|46.59}}}}
+|-
+!scope=row|[[Canning Town station|Canning Town]]
+| [[File:Canning Town stn northern entrance.JPG|100px|alt=A grey building with a black top and a blue sign reading "CANNING TOWN STATION" in white letters all under a blue sky with white butts|Canning Town]] || [[Jubilee line|Jubilee]]  || [[London Borough of Newham|Newham]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1994|March|28}}}} || {{ctr|{{dts|format=dmy|1847|June|14}}}} ||  || {{ctr|{{nts|8.71}}}}
+|-
+!scope=row|[[Cannon Street station#London Underground|Cannon Street]]
+| [[File:CannonStreet.jpg|100px|alt=A building with four people walking in front of it, one man in a white shirt sitting in front of it, and one white vehicle driving in front of it|Cannon Street]] || [[District line|District]]{{ref label|i|i|2}}<br>[[Circle line (London Underground)|Circle]] || [[City of London]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1884|October|6}}}} || {{sort|z|}} ||  || {{ctr|{{nts|4.05}}}}
+|-
+!scope=row|[[Canons Park tube station|Canons Park]]
+| [[File:Canons Park tube Station.JPG|100px|alt=A railway platform with a railway track running through it from the left portion of the background to the right portion of the foreground|Canons Park]] || [[Jubilee line|Jubilee]]{{ref label|e|e|1}} || [[London Borough of Harrow|Harrow]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1932|December|10}}}} || {{sort|z|}} || Canons Park (Edgware): 1932–33 || {{ctr|{{nts|1.82}}}}
+|-
+!scope=row|[[Chalfont & Latimer station|Chalfont & Latimer]]
+| [[File:Chalfont & Latimer station building.JPG|100px|alt=A brown-bricked building with two brown-bricked chimneys, some trees in the background, and a speed bump in the foreground all under a blue sky|Chalfont & Latimer]] || [[Metropolitan line|Metropolitan]] || [[Chiltern (district)|Chiltern]]  ||  {{ctr|[[Travelcard Zones 7-9|8]]}} || {{ctr|{{dts|format=dmy|1889|July|8}}}} || {{sort|z|}} || Chalfont Road: 1889–1915 || {{ctr|{{nts|1.19}}}}
+|-
+!scope=row|[[Chalk Farm tube station|Chalk Farm]]
+| [[File:Chalk Farm tube.JPG|100px|alt=A red-bricked building with a blue sign reading "UNDERGROUND" in white letters such that the "U" and the "D" are larger than the rest of the letters|Chalk Farm]] || [[Northern line|Northern]] || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1907|June|22}}}} || {{sort|z|}} || Adelaide Road: <small>Proposed before opening</small> || {{ctr|{{nts|4.94}}}}
+|-
+!scope=row|[[Chancery Lane tube station|Chancery Lane]]
+| [[File:Chancery Lane stn northeast entrance.JPG|100px|alt=A staircase leading down below a sidewalk with a sign above reading "UNDERGROUND" in white letters on a blue rectangle in front of a red circle|Chancery Lane]] || [[Central line|Central]] || [[City of London]]<br>[[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1900|July|30}}}} || {{sort|z|}} || Chancery Lane: 1900–34<br />Chancery Lane (Grays Inn): 1934– <small>suffix gradually dropped</small> || {{ctr|{{nts|16.04}}}}
+|-
+!scope=row|[[Charing Cross tube station|Charing Cross]]
+| [[File:Charing cross london underground.jpg|100px|alt=The interior of a building with a rounded ceiling and walls, three benches on the left, a railway track on the right, and advertisements on the walls|Charing Cross]] || [[Bakerloo line|Bakerloo]]<br>[[Northern line|Northern]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1906|March|10}}}} || {{sort|z|}} || Trafalgar Square <small>(Bakerloo line)</small>: 1906–79<br />Charing Cross <small>(Northern line)</small>: 1907–14<br />Charing Cross (Strand) <small>(Northern line)</small>: 1914–15<br />Strand <small>(Northern line)</small>: 1915–79 || {{ctr|{{nts|19.51}}}}
+|-
+!scope=row|[[Chesham tube station|Chesham]]
+| [[File:Chesham Tube Station.jpg|100px|alt=A grey railway platform with a series of light poles surrounded by brown trees, green bushes, and yellow and white flowers all under a white sky|Chesham]] || [[Metropolitan line|Metropolitan]] || [[Chiltern (district)|Chiltern]]  ||  {{ctr|[[Travelcard Zones 7-9|9]]}} || {{ctr|{{dts|format=dmy|1889|July|8}}}} || {{sort|z|}} ||  || {{ctr|{{nts|0.62}}}}
+|-
+!scope=row|[[Chigwell tube station|Chigwell]]
+| [[File:Chigwell stn building.JPG|100px|alt=A brown-bricked building with a black roof and a blue sign that reads "CHIGWELL STATION" in white letters all under a white sky|Chigwell]] || [[Central line|Central]] || [[Epping Forest (district)|Epping Forest]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1948|November|21}}}} || {{ctr|{{dts|format=dmy|1903|May|1}}}} ||  || {{ctr|{{nts|0.46}}}}
+|-
+!scope=row|[[Chiswick Park tube station|Chiswick Park]]
+|[[File:ChiswickPark.jpg|100px|alt=A brown-bricked building with a light blue strip over the doorway containing a darker blue sign reading "CHISWICK PARK STATION" in white letters|Chiswick Park]] || [[District line|District]] || [[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1879|July|1}}}} || {{sort|z|}} || Acton Green: 1879–87<br />Chiswick Park & Acton Green: 1887–1910 || {{ctr|{{nts|1.97}}}}
+|-
+!scope=row|[[Chorleywood station|Chorleywood]]
+|[[File:Railway station at Chorleywood.jpg|100px|alt=A small, brown-bricked building with a brown-shingled roof and a silver, two-wheeled vehicle sitting idle in front all under a white sky|Chorleywood]] || [[Metropolitan line|Metropolitan]] || [[Three Rivers (district)|Three Rivers]] || {{ctr|[[Travelcard Zones 7-9|7]]}} || {{ctr|{{dts|format=dmy|1889|July|8}}}} || {{sort|z|}} || Chorley Wood 1889–1915<br />Chorley Wood & Chenies: 1915–34<br />Chorley Wood: 1934–64 || {{ctr|{{nts|0.91}}}}
+|-
+!scope=row|[[Clapham Common tube station|Clapham Common]]
+|[[File:Clapham Common Tube Station Exterior - Oct 2007.jpg|100px|alt=A pink-tiled building topped by a silver dome culminating in a silver ball all surrounded by people under a white sky with green trees in the background|Clapham Common]] || [[Northern line|Northern]] || [[London Borough of Lambeth|Lambeth]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1900|June|3}}}} || {{sort|z|}} ||  || {{ctr|{{nts|9.06}}}}
+|-
+!scope=row|[[Clapham North tube station|Clapham North]]
+|[[File:ClaphamNorthTube.jpg|100px|alt=A white- and grey-bricked building with a blue sign reading "CLAPHAM NORTH STATION" in white letters all under a blue sky with white butts|Clapham North]] || [[Northern line|Northern]] || [[London Borough of Lambeth|Lambeth]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1900|June|3}}}} || {{sort|z|}} || Clapham Road: 1900–26 || {{ctr|{{nts|5.83}}}}
+|-
+!scope=row|[[Clapham South tube station|Clapham South]]
+|[[File:ClaphamSouthTube.jpg|100px|alt=A light-grey-tiled building with a blue sign reading "CLAPHAM SOUTH STATION" in white letters and a woman walking in front wearing a black jacket|Clapham South]] || [[Northern line|Northern]] || [[London Borough of Wandsworth|Wandsworth]] || {{ctr|[[Travelcard Zone 2|2]] & [[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1926|September|13}}}} || {{sort|z|}} || Nightingale Lane: <small>Proposed before opening</small> || {{ctr|{{nts|7.82}}}}
+|-
+!scope=row|[[Cockfosters tube station|Cockfosters]]
+|[[File:Cockfosters station platform concourse.JPG|100px|alt=The interior of a building with a black sign suspended from the ceiling reading "PLEASE WAIT IN THIS AREA UNTIL PLATFORM IS INDICATED"|Cockfosters]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Enfield|Enfield]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1933|July|31}}}} || {{sort|z|}} || Trent Park: <small>Proposed before opening</small> || {{ctr|{{nts|1.72}}}}
+|-
+!scope=row|[[Colindale tube station|Colindale]]
+|[[File:Colindale station entrance.JPG|100px|alt=A red-bricked building with a blue sign reading "COLINDALE STATION" in white letters and several people in front all under a blue sky with white butts|Colindale]] || [[Northern line|Northern]] || [[London Borough of Barnet|Barnet]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1924|August|18}}}} || {{sort|z|}} ||  || {{ctr|{{nts|4.13}}}}
+|-
+!scope=row|[[Colliers Wood tube station|Colliers Wood]]
+|[[File:Colliers Wood Tube Station 2003.jpg|100px|alt=A light-grey-bricked building with a blue sign reading "COLLIERS WOOD STATION" in white letters all under a blue sky with white butts|Colliers Wood]] || [[Northern line|Northern]] || [[London Borough of Merton|Merton]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1926|September|13}}}} || {{sort|z|}} ||  || {{ctr|{{nts|5.57}}}}
+|-
+!scope=row|[[Covent Garden tube station|Covent Garden]]
+|[[File:CoventGardenTubeStation.jpg|100px|alt=A red-bricked building with a white sign reading "COVENT" in blue letters and a blue sign reading "UNDERGROUND" in white letters under a white sky|Covent Garden]]|| [[Piccadilly line|Piccadilly]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1907|April|11}}}} || {{sort|z|}} ||  || {{ctr|{{nts|20.28}}}}
+|-
+!scope=row|[[Croxley tube station|Croxley]]
+|[[File:Croxley Tube Station - exterior.JPG|100px|alt=A brown-bricked building with a blue sign reading "CROXLEY STATION" in white letters and three cars parked in front all under a blue sky with white butts|Croxley]]|| [[Metropolitan line|Metropolitan]] || [[Three Rivers (district)|Three Rivers]] || {{ctr|[[Travelcard Zones 7-9|7]]}} || {{ctr|{{dts|format=dmy|1925|November|2}}}} || {{sort|z|}} || Croxley Green: 1925–49 || {{ctr|{{nts|0.82}}}}
+|-
+!scope=row|[[Dagenham East tube station|Dagenham East]]
+|[[File:Dagenham East stn building.JPG|100px|alt=A red-bricked building with a blue sign reading "DAGENHAM EAST STATION" in white letters, three people walking in front, and three cars parked outside|Dagenham East]]|| [[District line|District]] || [[London Borough of Barking and Dagenham|Barking and Dagenham]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1902|June|2}}}} || {{ctr|{{dts|format=dmy|1885}}}} || Dagenham: 1888–1949 || {{ctr|{{nts|2.22}}}}
+|-
+!scope=row|[[Dagenham Heathway tube station|Dagenham Heathway]]
+|[[File:Dagenham Heathway tube station 2005-12-10 05.jpg|100px|alt=A girl with a pink shirt and blue jeans on a railway platform with a railway track on the right and a white train on it with a red front|Dagenham Heathway]]|| [[District line|District]] || [[London Borough of Barking and Dagenham|Barking and Dagenham]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1932|September|12}}}} || {{sort|z|}} || Heathway: 1932–1949 || {{ctr|{{nts|4.71}}}}
+|-
+!scope=row|[[Debden tube station|Debden]]
+|[[File:Debden stn east.JPG|100px|alt=Two people walking on a green bridge with a white lattice running over a railway track and platform under a blue sky with white butts|Debden]] || [[Central line|Central]] || [[Epping Forest (district)|Epping Forest]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1949|September|25}}}} || {{ctr|{{dts|format=dmy|1865|April|24}}}} || Chigwell Road: 1865<br />Chigwell Lane: 1865–1949 || {{ctr|{{nts|2.12}}}}
+|-
+!scope=row|[[Dollis Hill tube station|Dollis Hill]]
+|[[File:Dollis Hill tube station 2005-12-10 02.jpg|100px|alt=People walking on a railway platform with a train on the right with white siding and red doors all under a blue sky with white butts|Dollis Hill]]|| [[Jubilee line|Jubilee]]{{ref label|e|e|2}} || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1909|October|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|3.08}}}}
+|-
+!scope=row|[[Ealing Broadway station|Ealing Broadway]]
+|[[File:EalingBroadway1.jpg|100px|alt=A number of people standing and sitting in front of a grey building with a white sign reading "Ealing Broadway" all under a blue sky with white butts|Ealing Broadway]]|| [[District line|District]]<br>[[Central line|Central]] || [[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1879|July|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|16.09}}}}
+|-
+!scope=row|[[Ealing Common tube station|Ealing Common]]
+|[[File:EalingCommon.jpg|100px|alt=A grey building with a blue sign reading "EALING COMMON STATION" in white letters and two green trees in the background all under a blue sky|Ealing Common]] || [[District line|District]]<br>[[Piccadilly line|Piccadilly]] || [[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1879|July|1}}}} || {{sort|z|}} || Ealing Common: 1879–86<br />Ealing Common and West Acton 1886–1910 || {{ctr|{{nts|3.25}}}}
+|-
+!scope=row|[[Earl's Court tube station|Earl's Court]]
+|[[File:London Train Station.jpg|100px|alt=The interior of a building with windows on the ceiling and a railway track running from the background to the foreground in the centre|Earl's Court]] || [[District line|District]]<br>[[Piccadilly line|Piccadilly]] || [[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]] || {{ctr|[[Travelcard Zone 1|1]] & [[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1871|October|30}}<br><small>resited 1 February 1878</small>}} || {{sort|z|}} ||  || {{ctr|{{nts|20.97}}}}
+|-
+!scope=row|[[East Acton tube station|East Acton]]
+|[[File:East Acton Tube Station.jpg|100px|alt=A red-bricked building with a blue sign reading "EAST ACTON STATION" in white letters and a man walking in front all under a white sky|East Acton]] || [[Central line|Central]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1920|August|3}}}} || {{sort|z|}} ||  || {{ctr|{{nts|3.41}}}}
+|-
+!scope=row|[[East Finchley tube station|East Finchley]]
+|[[File:East Finchley2.JPG|100px|alt=A white building with brick sections spanning a railway track and resting on railway platforms on either side all under a blue sky with white butts|East Finchley]] || [[Northern line|Northern]] || [[London Borough of Barnet|Barnet]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1939|July|3}}}} || {{ctr|{{dts|format=dmy|1867|August|22}}}} ||  || {{ctr|{{nts|6.29}}}}
+|-
+!scope=row|[[East Ham tube station|East Ham]]
+|[[File:East ham tube station london.jpg|100px|alt=A red- and brown-bricked building with a blue sign reading "EAST HAM STATION" in white letters and people walking in front all under a white sky|East Ham]] || [[District line|District]]{{ref label|j|j|4}}<br>[[Hammersmith & City line|Hammersmith & City]] || [[London Borough of Newham|Newham]] || {{ctr|[[Travelcard Zone 3|3]] & [[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1902|June|2}}}} || {{ctr|{{dts|format=dmy|1858}}}} ||  || {{ctr|{{nts|13.37}}}}
+|-
+!scope=row|[[East Putney tube station|East Putney]]
+|[[File:EastPutney1.jpg|100px|alt=A red-bricked building with a blue sign reading "EAST PUTNEY STATION" in white letters and people standing in front all under a blue sky with white butts|East Putney]] || [[District line|District]] || [[London Borough of Wandsworth|Wandsworth]] || {{ctr|[[Travelcard Zone 2|2]] & [[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1889|June|3}}}} || {{sort|z|}} ||  || {{ctr|{{nts|4.93}}}}
+|-
+!scope=row|[[Eastcote tube station|Eastcote]]
+|[[File:Eastcote tube station 1.jpg|100px|alt=A brown-bricked building with a blue sign reading "EASTCOTE STATION" in white letters and people walking in front all under a blue sky with white butts|Eastcote]] || [[Metropolitan line|Metropolitan]]<br>[[Piccadilly line|Piccadilly]]{{ref label|k|k|1}} || [[London Borough of Hillingdon|Hillingdon]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1906|May|26}}}} || {{sort|z|}} ||  || {{ctr|{{nts|2.43}}}}
+|-
+!scope=row|[[Edgware tube station|Edgware]]
+|[[File:Edgware stn.jpg|100px|alt=A white bluilding with white columns upholding a brown-shingled roof with people walking and standing in front all under a blue sky|Edgware]] || [[Northern line|Northern]] || [[London Borough of Barnet|Barnet]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1924|August|18}}}} || {{sort|z|}} ||  || {{ctr|{{nts|4.37}}}}
+|-
+!scope=row|[[Edgware Road tube station (Bakerloo line)|Edgware Road]]
+|[[File:Edgware Road stn (Bakerloo line) building (cropped).png|100px|alt=A red-bricked building with a white sign reading "EDGWARE ROAD STATION" in red letters with a car driving in the foreground|Edgware Road (Bakerloo Line)]] || [[Bakerloo line|Bakerloo]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1907|June|15}}}} || {{sort|z|}} ||  || {{ctr|{{nts|4.06}}}}
+|-
+!scope=row|[[Edgware Road tube station (Circle, District and Hammersmith & City lines)|Edgware Road]]
+|[[File:EdgwareRdHammersmith.jpg|100px|alt=A tan-coloured building with brown-framed windows and a sign reading "METROPOLITAN EDGWARE ROAD STATION RAILWAY" in brown letters|Edgware Road]]|| [[Hammersmith & City line|Hammersmith & City]]{{ref label|c|c|2}}{{ref label|d|d|2}}<br>[[District line|District]]<br>[[Circle line (London Underground)|Circle]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1863|October|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|5.94}}}}
+|-
+!scope=row|[[Elephant & Castle tube station|Elephant & Castle]]
+|[[File:Elephant & Castle stn south entrance.JPG|100px|alt=A light blue building with a dark blue sign reading "ELEPHANT & CASTLE STATION" in white letters all under a blue sky with white butts|Elephant & Castle]] || [[Northern line|Northern]]<br>[[Bakerloo line|Bakerloo]] || [[London Borough of Southwark|Southwark]] || {{ctr|[[Travelcard Zone 1|1]] & [[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1890|December|18}}}} || {{sort|z|}} ||  || {{ctr|{{nts|17.72}}}}
+|-
+!scope=row|[[Elm Park tube station|Elm Park]]
+|[[File:Elm Park stn building.JPG|100px|alt=A brown-bricked building with a blue sign reading "ELM PARK STATION" in white letters and people walking in front all under a blue sky|Elm Park]] || [[District line|District]] || [[London Borough of Havering|Havering]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1935|May|13}}}} || {{sort|z|}} ||  || {{ctr|{{nts|2.44}}}}
+|-
+!scope=row|[[Embankment tube station|Embankment]]
+|[[File:Embankment station.jpg|100px|alt=A grey building with a blue sign reading "EMBANKMENT STATION" in white letters and people standing in the foreground all under a white sky|Embankment]] || [[District line|District]]{{ref label|i|i|3}}<br>[[Bakerloo line|Bakerloo]]<br>[[Northern line|Northern]]<br>[[Circle line (London Underground)|Circle]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1870|May|30}}}} || {{sort|z|}} || Charing Cross <small>(District line)</small>: 1870–1915<br />Embankment <small>(Bakerloo line)</small>: 1906–14<br />Charing Cross (Embankment) <small>(Bakerloo & Northern lines)</small>: 1914–15<br />Charing Cross: 1915–74<br />Charing Cross Embankment: 1974–6 || {{ctr|{{nts|19.79}}}}
+|-
+!scope=row|[[Epping tube station|Epping]]
+|[[File:Epping tube station.JPG|100px|alt=A brown-bricked building with a blue sign reading "EPPING STATION" in white letters and people in the foreground all under a blue sky with white butts|Epping]] || [[Central line|Central]] || [[Epping Forest (district)|Epping Forest]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1949|September|25}}}} || {{ctr|{{dts|format=dmy|1865|April|24}}}} ||  || {{ctr|{{nts|3.10}}}}
+|-
+!scope=row|[[Euston tube station|Euston]]
+|[[File:Euston station facade.jpg|100px|alt=A white building with black columns and a white sign reading "EUSTON STATION" in blue letters and a traffic pilon in the foreground all under a white sky|Euston]] || [[Northern line|Northern]]<br>[[Victoria line|Victoria]] || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1907|June|22}}}} || {{sort|z|}} || Melton Street: <small>Proposed before opening</small> || {{ctr|{{nts|35.32}}}}
+|-
+!scope=row|[[Euston Square tube station|Euston Square]]
+|[[File:Euston Square stn south entrance.JPG|100px|alt=A building covered in windows with a blue sign reading "EUSTON SQUARE STATION" in white letters all under a blue sky with white butts|Euston Square]] || [[Metropolitan line|Metropolitan]]{{ref label|b|b|3}}<br>[[Circle line (London Underground)|Circle]]<br>[[Hammersmith & City line|Hammersmith & City]] || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1863|January|10}}}} || {{sort|z|}} || Gower Street: 1863–1909 || {{ctr|{{nts|10.89}}}}
+|-
+!scope=row|[[Fairlop tube station|Fairlop]]
+|[[File:Fairlop stn building.JPG|100px|alt=A brown-bricked building with a blue sign reading "FAIRLOP STATION" in white letters and a car parked in front all under a blue sky with white butts|Fairlop]] || [[Central line|Central]] || [[London Borough of Redbridge|Redbridge]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1948|May|31}}}} || {{ctr|{{dts|format=dmy|1903|May|1}}}} ||  || {{ctr|{{nts|0.92}}}}
+|-
+!scope=row|[[Farringdon station|Farringdon]]
+| [[File:Farringdon station exterior.jpg|100px|alt=A white building with a sign reading "FARRINGDON & HIGH HOLBORN STATION" in gold letters and people in front all under a blue sky with white butts|Farringdon]]|| [[Metropolitan line|Metropolitan]]{{ref label|b|b|4}}<br>[[Circle line (London Underground)|Circle]]<br>[[Hammersmith & City line|Hammersmith & City]] || [[London Borough of Islington|Islington]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1863|January|10}}<br><small>resited 23 December 1865</small>}} || {{sort|z|}} || Farringdon Street: 1863–1922<br />Farringdon & High Holborn: 1922–36 || {{ctr|{{nts|19.02}}}}
+|-
+!scope=row|[[Finchley Central tube station|Finchley Central]]
+|[[File:Finchley Central station.jpg|100px|alt=A white- and beige-bricked building with a blue sign reading "FINCHLEY CENTRAL STATION" in white letters all under a blue sky fading to purple on the horizon|Finchley Central]] || [[Northern line|Northern]] || [[London Borough of Barnet|Barnet]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1940|April|14}}}} || {{ctr|{{dts|format=dmy|1867|August|22}}}} || Finchley & Hendon: 1867–72<br />Finchley: 1872–96<br />Finchley (Church End): 1896–1940 || {{ctr|{{nts|5.49}}}}
+|-
+!scope=row|[[Finchley Road tube station|Finchley Road]]
+| [[File:Finchley Road tube entrance.jpg|100px|alt=A white building with a blue-shingled roof and a blue sign reading "FINCHLEY ROAD STATION" in white letters all under a blue sky with white butts|Finchley Road]]|| [[Metropolitan line|Metropolitan]]<br>[[Jubilee line|Jubilee]]{{ref label|f|f|1}} || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1879|June|30}}}} || {{sort|z|}} ||  || {{ctr|{{nts|8.98}}}}
+|-
+!scope=row|[[Finsbury Park station#London Underground|Finsbury Park]]
+| [[File:Finsbury Park tube stn entrance Station Place.JPG|100px|alt=A grey-panelled building with a blue sign reading "FINSBURY PARK" in white letters and a woman with a brown coat standing in the doorway|Finsbury Park]]|| [[Piccadilly line|Piccadilly]]<br>[[Victoria line|Victoria]] || [[London Borough of Islington|Islington]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1906|December|15}}}} || {{sort|z|}} ||  || |{{ctr|{{nts|24.29}}}}
+|-
+!scope=row|[[Fulham Broadway tube station|Fulham Broadway]]
+|[[File:FulhamBroadway2.jpg|100px|alt=The interior of a building with white walls, white flooring, and a railway track running down the middle of the corridor with a train on it|Fulham Broadway]] || [[District line|District]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1880|March|1}}}} || {{sort|z|}} || Walham Green: 1880–1952 || {{ctr|{{nts|9.56}}}}
+|-
+!scope=row|[[Gants Hill tube station|Gants Hill]]
+|[[File:Gants Hill Underground.jpg|100px|alt=Two people sitting on brown benches and one person standing inside a building with a white, rounded ceiling, white-tiled floors, and three escalators|Gants Hill]] || [[Central line|Central]] || [[London Borough of Redbridge|Redbridge]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1947|December|14}}}} || {{sort|z|}} || Ilford North/Cranbrook: <small>Proposed before opening</small> || {{ctr|{{nts|5.48}}}}
+|-
+!scope=row|[[Gloucester Road tube station|Gloucester Road]]
+|[[File:GlocesterRoadTube.jpg|100px|alt=A beige-bricked building with a green sign reading "METROPOLITAN & DISTRICT RAILWAYS GLOUCESTER ROAD STATION" in white letters|Gloucester Road]] || [[District line|District]]{{ref label|c|c|3}}<br>[[Piccadilly line|Piccadilly]]<br>[[Circle line (London Underground)|Circle]] || [[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1868|October|1}}}} || {{sort|z|}} || Brompton (Gloucester Road): 1868–1907 || {{ctr|{{nts|14.16}}}}
+|-
+!scope=row|[[Golders Green tube station|Golders Green]]
+|[[File:Golders Green stn building.JPG|100px|alt=A red-bricked building with a blue sign reading "GOLDERS GREEN STATION" in white letters and people in front all under a blue sky with white butts|Golders Green]] || [[Northern line|Northern]] || [[London Borough of Barnet|Barnet]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1907|June|22}}}} || {{sort|z|}} ||  || {{ctr|{{nts|7.81}}}}
+|-
+!scope=row|[[Goldhawk Road tube station|Goldhawk Road]]
+|[[File:Goldhawk Road stn east entrance.JPG|100px|alt=A brown-bricked building with a blue sign reading "GOLDHAWK ROAD STATION" in white letters and two women walking in front all under a grey sky|Goldhawk Road]] || [[Hammersmith & City line|Hammersmith & City]]{{ref label|m|m|1}}<br>[[Circle line (London Underground)|Circle]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1914|April|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|1.60}}}}
+|-
+!scope=row|[[Goodge Street tube station|Goodge Street]]
+|[[File:Goodge Street stn entrance.JPG|100px|alt=A red-bricked building with a blue sign reading "GOODGE STREET STATION" in white letters and several people walking in front all under a blue sky|Goodge Street]] || [[Northern line|Northern]] || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1907|June|22}}}} || {{sort|z|}} || Tottenham Court Road: 1907–08 || {{ctr|{{nts|10.62}}}}
+|-
+!scope=row|[[Grange Hill tube station|Grange Hill]]
+|[[File:Grange Hill stn entr.JPG|100px|alt=A brown-bricked building with a blue sign reading "GRANGE HILL STATION" in white letters all under a blue sky with white butts|Grange Hill]] || [[Central line|Central]] || [[London Borough of Redbridge|Redbridge]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1948|November|21}}}} || {{ctr|{{dts|format=dmy|1903|May|1}}}} ||  || {{ctr|{{nts|0.49}}}}
+|-
+!scope=row|[[Great Portland Street tube station|Great Portland Street]]
+|[[File:Great Portland St Tube Station.jpg|100px|alt=A beige-bricked building with a blue sign reading "GREAT PORTLAND STREET STATION" in white letters all under a blue sky with white butts|Great Portland Street]] || [[Metropolitan line|Metropolitan]]{{ref label|b|b|5}}<br>[[Circle line (London Underground)|Circle]]<br>[[Hammersmith & City line|Hammersmith & City]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1863|January|10}}}} || {{sort|z|}} || Portland Road: 1863–1917<br />Great Portland Street: 1917–23<br />Great Portland Street & Regent's Park: 1923–33 || {{ctr|{{nts|7.17}}}}
+|-
+!scope=row|[[Greenford station|Greenford]]
+|[[File:Greenford station entrance.JPG|100px|alt=A red-bricked building with a blue sign reading "GREENFORD STATION" in white letters and people in front all under a blue sky with white butts|Greenford]] || [[Central line|Central]] || [[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1947|June|30}}}} || {{ctr|{{dts|format=dmy|1904|October|1}}}} ||  || {{ctr|{{nts|3.95}}}}
+|-
+!scope=row|[[Green Park tube station|Green Park]]
+|[[File:Green Park Victoria Line train.jpg|100px|alt=The interior of a building with a rounded, white roof, white walls, grey flooring, and a train on the right carrying passengers|Green Park]] || [[Piccadilly line|Piccadilly]]<br>[[Victoria line|Victoria]]<br>[[Jubilee line|Jubilee]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1906|December|15}}}} || {{sort|z|}} || Dover Street: 1906–33 || {{ctr|{{nts|29.37}}}}
+|-
+!scope=row|[[Gunnersbury station|Gunnersbury]]
+|[[File:D-stock at Gunnersbury.jpg|100px|alt=A group of people standing on a railway platform with a railway track to the right and a white-and-red train running on it with its headlights on|Gunnersbury]] || [[District line|District]] || [[London Borough of Hounslow|Hounslow]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1877|June|1}}}} || {{ctr|{{dts|format=dmy|1869|January|1}}}} || Brentford Road: 1869–71 || {{ctr|{{nts|4.39}}}}
+|-
+!scope=row|[[Hainault tube station|Hainault]]
+|[[File:Hainault stn building.JPG|100px|alt=A red-bricked building with a blue sign reading "HAINAULT STATION" in white letters and a lamp post in front all under a blue sky with white butts|Hainault]] || [[Central line|Central]] || [[London Borough of Redbridge|Redbridge]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1948|May|31}}}} || {{ctr|{{dts|format=dmy|1903|May|1}}}} ||  || {{ctr|{{nts|2.95}}}}
+|-
+!scope=row|[[Hammersmith tube station (Piccadilly and District lines)|Hammersmith]]
+|[[File:Hammersmith (District) station main entrance.JPG|100px|alt=A beige building with a circular, red sign in the middle stating "Coca-Cola" in white letters and a rectangular, blue sign below|Hammersmith (Piccadilly and District)]] || [[District line|District]]<br>[[Piccadilly line|Piccadilly]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1874|September|9}}}} || {{sort|z|}} ||  || {{ctr|{{nts|28.94}}}}
+|-
+!scope=row|[[Hammersmith tube station (Hammersmith & City and Circle lines)|Hammersmith]]
+|[[File:Hammersmith (H & C line) station building.JPG|100px|alt=A brown-bricked building with a rectangular, blue sign reading "HAMMERSMITH STATION" in white letters all under a grey sky|Hammersmith (Hammersmith and City)]] || [[Hammersmith & City line|Hammersmith & City]]{{ref label|m|m|2}}<br>[[Circle line (London Underground)|Circle]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1864|June|13}}<br><small>resited 1 December 1868</small>}} || {{sort|z|}} ||  || {{ctr|{{nts|8.89}}}}
+|-
+!scope=row|[[Hampstead tube station|Hampstead]]
+|[[File:Hampstead station building.JPG|100px|alt=A red-bricked building with a rectangular, blue sign reading "HAMPSTEAD STATION" in white letters and people in front all under a white sky|Hampstead]] || [[Northern line|Northern]] || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 2|2]] & [[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1907|June|22}}}} || {{sort|z|}} || Heath Street: <small>Proposed before opening</small> || {{ctr|{{nts|4.31}}}}
+|-
+!scope=row|[[Hanger Lane tube station|Hanger Lane]]
+|[[File:Hanger Lane stn building.JPG|100px|alt=A white building with a rectangular, blue sign reading "HANGER LANE STATION" in white letters all under a blue sky with white butts|Hanger Lane]] || [[Central line|Central]] || [[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1947|June|30}}}} || {{sort|z|}} ||  || {{ctr|{{nts|3.36}}}}
+|-
+!scope=row|[[Harlesden station|Harlesden]]
+|[[File:Harlesden.jpg|100px|alt=A railway platform with a railway track running from the bottom left corner to the middle right and the legs of several sitting people visible in the bottom right|Harlesden]] || [[Bakerloo line|Bakerloo]] || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1917|April|16}}}} || {{ctr|{{dts|format=dmy|1912|June|15}}}} ||  || {{ctr|{{nts|2.28}}}}
+|-
+!scope=row|[[Harrow & Wealdstone station|Harrow & Wealdstone]]
+|[[File:Harrow & Wealdstone main building.JPG|100px|alt=A red-bricked building with a rectangular, blue sign reading "HARROW & WEALDSTONE" in white letters all under a blue sky with white butts|Harrow & Wealdstone]] || [[Bakerloo line|Bakerloo]] || [[London Borough of Harrow|Harrow]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1917|April|16}}}} || {{ctr|{{dts|format=dmy|1837|July|20}}}} || Harrow: 1837–97 || {{ctr|{{nts|4.47}}}}
+|-
+!scope=row|[[Harrow-on-the-Hill station|Harrow-on-the-Hill]]
+|[[File:Harrow-on-the-Hill stn north entrance.JPG|100px|alt=A red-bricked building with a rectangular, blue sign reading "Flexible Offices To Let 100 sq ft – 40,000 sq ft Meeting & Training Rooms"|Harrow-on-the-Hill]] || [[Metropolitan line|Metropolitan]] || [[London Borough of Harrow|Harrow]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1880|August|2}}}} || {{ctr|{{dts|format=dmy|1899|March|15}}}} || Harrow: 1880–94 || {{ctr|{{nts|8.75}}}}
+|-
+!scope=row|[[Hatton Cross tube station|Hatton Cross]]
+|[[File:Hatton Cross Tube Station.JPG|100px|alt=A dark grey building with a dark blue sign reading "HATTON CROSS STATION" in white letters all under a blue sky with an aeroplane flying through it|Hatton Cross]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Hillingdon|Hillingdon]] || {{ctr|[[Travelcard Zone 5|5]] & [[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1975|July|19}}}} || {{sort|z|}} ||  || {{ctr|{{nts|2.93}}}}
+|-
+!scope=row|[[Heathrow Terminals 1, 2, 3 tube station|Heathrow Terminals 1, 2, 3]]
+|[[File:Heathrow Terms 123 entrance.JPG|100px|alt=The interior of a building with people walking in various directions under a blue sign reading "HEATHROW TERMINALS 1, 2, 3 UNDERGROUND"|Heathrow Terminals 1,2,3]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Hillingdon|Hillingdon]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1977|December|16}}}} || {{sort|z|}} || Heathrow Central: 1976–83<br />Heathrow Central Terminals 1, 2, 3: 1983–86 || {{ctr|{{nts|7.72}}}}
+|-
+!scope=row|[[Heathrow Terminal 4 tube station|Heathrow Terminal 4]]
+|[[File:Heathrow Terminal 4 tube entrance.JPG|100px|alt=The dark interior of a building with a rectangular, blue sign reading "HEATHROW TERMINAL 4 STATION" in white letters and white flooring|Heathrow Terminal 4]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Hillingdon|Hillingdon]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1986|April|12}}}} || {{sort|z|}} ||  || {{ctr|{{nts|2.46}}}}
+|-
+!scope=row|[[Heathrow Terminal 5 station|Heathrow Terminal 5]]
+|[[File:Heathrow Terminal 5 Underground entrance.JPG|100px|alt=A dark grey doorway with a person walking through it and a white sign above with a red circle on it and letters reading "UNDERGROUND"|Heathrow Terminal 5]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Hillingdon|Hillingdon]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|2008|March|27}}}} || {{sort|z|}} ||  || {{ctr|{{nts|3.21}}}}
+|-
+!scope=row|[[Hendon Central tube station|Hendon Central]]
+|[[File:Hendon Central tube.JPG|100px|alt=A brown-bricked building with white columns and a sign reading "HENDON CENTRAL STATION" in blue letters all under a clear, blue sky|Hendon Central]] || [[Northern line|Northern]] || [[London Borough of Barnet|Barnet]] || {{ctr|[[Travelcard Zone 3|3]] & [[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1923|November|19}}}} || {{sort|z|}} ||  || {{ctr|{{nts|7.01}}}}
+|-
+!scope=row|[[High Barnet tube station|High Barnet]]
+|[[File:High Barnet stn new southern entrance.JPG|100px|alt=A beige-bricked building with a rectangular, blue sign reading "HIGH BARNET STATION" in white letters all under a blue sky with white butts|High Barnet]] || [[Northern line|Northern]] || [[London Borough of Barnet|Barnet]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1940|April|14}}}} || {{ctr|{{dts|format=dmy|1872|April|1}}}} ||  || {{ctr|{{nts|3.14}}}}
+|-
+!scope=row|[[Highbury & Islington station|Highbury & Islington]]
+|[[File:Highbury & Islington station building.JPG|100px|alt=A red-bricked building with a rectangular, blue sign reading "HIGHBURY & ISLINGTON STATION" in white letters all under a blue sky with white butts|Highbury & Islington]] || [[Victoria line|Victoria]] || [[London Borough of Islington|Islington]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1968|September|1}}}} || {{ctr|{{dts|format=dmy|1904|June|28}}}} || Highbury: 1867–1922 || {{ctr|{{nts|16.26}}}}
+|-
+!scope=row|[[Highgate tube station|Highgate]]
+|[[File:Highgate station entrance Priory.JPG|100px|alt=A brown-bricked building with a rectangular, blue sign reading "HIGHGATE STATION" in white letters and a person walking in all under a white sky|Highgate]] || [[Northern line|Northern]] || [[London Borough of Haringey|Haringey]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1941|January|19}}}} || {{ctr|{{dts|format=dmy|1867|August|22}}}} ||  || {{ctr|{{nts|4.98}}}}
+|-
+!scope=row|[[High Street Kensington tube station|High Street Kensington]]
+|align=center|[[File:High Street Kensington station October 2013.jpg|100px|alt=A white many-windowed building and several people walking in front all under a white sky|High Street Kensington]] || [[District line|District]]{{ref label|c|c|4}}<br>[[Circle line (London Underground)|Circle]] || [[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1868|October|1}}}} || {{sort|z|}} || Kensington: <small>Proposed before opening</small> || {{ctr|{{nts|11.99}}}}
+|-
+!scope=row|[[Hillingdon tube station|Hillingdon]]
+|[[File:Hillingdon Underground Station.jpg|100px|alt=A white building with a parking lot in front of it filled with vehicles and green trees in the background all under a blue sky with white butts|Hillingdon]] || [[Metropolitan line|Metropolitan]]<br>[[Piccadilly line|Piccadilly]]{{ref label|k|k|2}} || [[London Borough of Hillingdon|Hillingdon]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1923|December|10}}<br><small>resited 6 December 1992</small>}} || {{sort|z|}} || Hillingdon: 1923–34<br />Hillingdon (Swakeleys) 1934– <small>suffix gradually dropped</small> || {{ctr|{{nts|1.40}}}}
+|-
+!scope=row|[[Holborn tube station|Holborn]]
+|[[File:Holborn station Piccadilly westbound.JPG|100px|alt=The interior of a building with a rounded ceiling and walls and a white sign hanging from the ceiling reading "Way out Central line"|Holborn]] || [[Central line|Central]]<br>[[Piccadilly line|Piccadilly]] || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1906|December|15}}}} || {{sort|z|}} || Holborn: 1906–1933<br />Holborn (Kingsway): 1933– <small>suffix gradually dropped</small> || {{ctr|{{nts|31.98}}}}
+|-
+!scope=row|[[Holland Park tube station|Holland Park]]
+|[[File:HollandPark.jpg|100px|alt=An orange building with an illuminated, blue sign reading "HOLLAND PARK STATION" in white letters and people walking in front all under a white sky|Holland Park]] || [[Central line|Central]] || [[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1900|July|30}}}} || {{sort|z|}} || Lansdown Road: <small>Proposed before opening</small> || {{ctr|{{nts|3.37}}}}
+|-
+!scope=row|[[Holloway Road tube station|Holloway Road]]
+|[[File:Hollowayrdtube.jpg|100px|alt=A red-bricked building with a sign reading "EXIT HOLLOWAY ROAD" in gold letters and a rectangular, blue sign reading "HOLLOWAY ROAD STATION"|Holloway Road]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Islington|Islington]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1906|December|15}}}} || {{sort|z|}} || Holloway: <small>Proposed before opening</small> || {{ctr|{{nts|8.05}}}}
+|-
+!scope=row|[[Hornchurch tube station|Hornchurch]]
+|[[File:Hornchurch tube station 3.jpg|100px|alt=A railway track separating two railway platforms with yellow lines painted on them running parallel to the track all under a light blue sky with white butts|Hornchurch]] || [[District line|District]] || [[London Borough of Havering|Havering]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1902|June|2}}}} || {{ctr|{{dts|format=dmy|1885|May|1}}}} ||  || {{ctr|{{nts|1.98}}}}
+|-
+!scope=row|[[Hounslow Central tube station|Hounslow Central]]
+|[[File:Hounslow Central building.JPG|100px|alt=A brown-bricked building with a rectangular, blue sign reading "HOUNSLOW CENTRAL STATION" in white letters and a light post in front all under a white sky|Hounslow Central]] || [[Piccadilly line|Piccadilly]]{{ref label|l|l|2}} || [[London Borough of Hounslow|Hounslow]]  ||  {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1886|April|1}}}} || {{sort|z|}} || Heston Hounslow: 1886–1925 || {{ctr|{{nts|3.90}}}}
+|-
+!scope=row|[[Hounslow East tube station|Hounslow East]]
+|align=center|[[File:Hounslow East Station.JPG|80px|alt=A dark grey building with a green roof and a rectangular, blue sign reading "HOUNSLOW EAST STATION" in white letters all under a blue sky|Hounslow East]] || [[Piccadilly line|Piccadilly]]{{ref label|l|l|3}} || [[London Borough of Hounslow|Hounslow]]  ||  {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1909|May|2}}}} || {{sort|z|}} || Hounslow Town: 1909–25 || {{ctr|{{nts|4.27}}}}
+|-
+!scope=row|[[Hounslow West tube station|Hounslow West]]
+|[[File:Hounslow West tube station 07 July 2006.jpg|100px|alt=A light grey building with a long, rectangular, dark blue sign reading "HOUNSLOW WEST STATION" in white letters all under a butty sky|Hounslow West]] || [[Piccadilly line|Piccadilly]]{{ref label|l|l|4}} || [[London Borough of Hounslow|Hounslow]]  ||  {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1884|July|21}}}} || {{sort|z|}} || Hounslow Barracks: 1884–1925 || {{ctr|{{nts|3.18}}}}
+|-
+!scope=row|[[Hyde Park Corner tube station|Hyde Park Corner]]
+|[[File:Hyde Park Corner.jpg|100px|alt=The interior of a building with a rounded ceiling and rounded walls with a railway track on the left and people standing on the right|Hyde Park Corner]] || [[Piccadilly line|Piccadilly]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1906|December|15}}}} || {{sort|z|}} ||  || {{ctr|{{nts|6.07}}}}
+|-
+!scope=row|[[Ickenham tube station|Ickenham]]
+|[[File:Ickenham tube station 1.jpg|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "ICKENHAM STATION" in white letters all under a light blue sky|Ickenham]] || [[Metropolitan line|Metropolitan]]<br>[[Piccadilly line|Piccadilly]]{{ref label|k|k|3}}  || [[London Borough of Hillingdon|Hillingdon]] || {{ctr|[[Travelcard Zone 6|6]]}}  || {{ctr|{{dts|format=dmy|1905|September|25}}}} || {{sort|z|}} ||  || {{ctr|{{nts|0.98}}}}
+|-
+!scope=row|[[Kennington tube station|Kennington]]
+|[[File:Kennington Tube Station.jpg|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "KENNINGTON STATION" in white letters all under a light blue sky|Kennington]] || [[Northern line|Northern]]  || [[London Borough of Southwark|Southwark]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1890|December|18}}}} || {{sort|z|}} || New Street: <small>Proposed before opening</small> || {{ctr|{{nts|4.52}}}}
+|-
+!scope=row|[[Kensal Green station|Kensal Green]]
+|[[File:Kensal Green Tube Station 2008.jpg|100px|alt=A brown-bricked building with a black sign reading "Kensal Green" in white letters and some people walking in front all under a white sky|Kensal Green]] || [[Bakerloo line|Bakerloo]] || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1916|October|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|2.32}}}}
+|-
+!scope=row|[[Kensington (Olympia) station|Kensington (Olympia)]]
+| [[File:KensingtonOlympia.jpg|100px|alt=A beige building with a rectangular, white sign reading "Welcome to Kensington Olympia" in dark blue letters all under a light blue sky|Kensington (Olympia)]] || [[District line|District]] || [[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]] || {{ctr|[[Travelcard Zone 2|2]]}}  || {{ctr|{{dts|format=dmy|1864|July|1}}}} || {{ctr|{{dts|format=dmy|1844|May|27}}}} || Kensington: 1844–68<br />Kensington (Addison Road): 1868–1946 || {{ctr|{{nts|1.74}}}}
+|-
+!scope=row|[[Kentish Town station|Kentish Town]]
+|[[File:Kentish Town stn building.JPG|100px|alt=A red-bricked building with a rectangular, white sign reading "KENTISH TOWN STATION" in black letters all under a light blue sky|Kentish Town]] || [[Northern line|Northern]]  || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1907|June|22}}}} || {{sort|z|}} ||  || {{ctr|{{nts|7.21}}}}
+|-
+!scope=row|[[Kenton station|Kenton]]
+|[[File:Kenton station building.JPG|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "KENTON STATION" in white letters all under a blue sky with white butts|Kenton]] || [[Bakerloo line|Bakerloo]]  || [[London Borough of Brent|Brent]]<br>[[London Borough of Harrow|Harrow]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1917|April|16}}}} || {{ctr|{{dts|format=dmy|1912|June|15}}}} ||  || {{ctr|{{nts|1.94}}}}
+|-
+!scope=row|[[Kew Gardens station (London)|Kew Gardens]]
+|[[File:Kew Gardens stn rear entrance.JPG|100px|alt=A beige-bricked building with five rounded stairs leading up to its entrance and green trees and bushes in front all under a white sky|Kew Gardens]] ||  [[District line|District]] || [[London Borough of Richmond upon Thames|Richmond]] || {{ctr|[[Travelcard Zone 3|3]] & [[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1877|June|1}}}} || {{ctr|{{dts|format=dmy|1869|July|1}}}} ||  || {{ctr|{{nts|3.13}}}}
+|-
+!scope=row|[[Kilburn tube station|Kilburn]]
+|[[File:Kilburn2.jpg|100px|alt=A man with a white shirt and white pants sitting on a brown bench facing the left with another bench behind him all under a light blue sky with white butts|Kilburn]] ||  [[Jubilee line|Jubilee]]{{ref label|e|e|3}} || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1879|November|24}}}} || {{sort|z|}} || Kilburn and Brondesbury: 1879–1950 || {{ctr|{{nts|7.52}}}}
+|-
+!scope=row|[[Kilburn Park tube station|Kilburn Park]]
+|[[File:Kilburn park tube station.jpg|100px|alt=A red-bricked building with a series of white signs together reading "KILBURN PARK STATION" in red letters and people walking in front all under a white sky|Kilburn Park]] || [[Bakerloo line|Bakerloo]] || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1915|January|31}}}} || {{sort|z|}} ||  || {{ctr|{{nts|3.46}}}}
+|-
+!scope=row|[[Kingsbury tube station|Kingsbury]]
+|[[File:Kingsbury tube station.jpg|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "KINGSBURY STATION" in white letters all under a light blue sky|Kingsbury]] || [[Jubilee line|Jubilee]]{{ref label|e|e|4}} || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1932|December|10}}}} || {{sort|z|}} ||  || {{ctr|{{nts|3.44}}}}
+|-
+!scope=row|[[king's cross tube station|king's cross]]
+|[[File:king's cross tube stn Euston Rd NW entrance.JPG|100px|alt=A red-bricked building with a dark blue sign reading "king's cross" in white letters and several entranceways all under a grey sky|king's cross]] || [[Metropolitan line|Metropolitan]]{{ref label|b|b|6}}<br>[[Northern line|Northern]]<br>[[Piccadilly line|Piccadilly]]<br>[[Circle line (London Underground)|Circle]]<br>[[Victoria line|Victoria]]<br>[[Hammersmith & City line|Hammersmith & City]]  || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1863|January|10}}<br><small>Metropolitan line<br>resited 9 March 1941</small>}} || {{sort|z|}} || King's Cross <small>(Metropolitan line)</small>: 1863–1925<br />King's Cross & St Pancras <small>(Metropolitan line)</small>: 1925–33<br />King's Cross <small>(Piccadilly line)</small>: 1906–27<br />King's Cross for St Pancras <small>(Piccadilly line)</small>: 1927–33<br />King's Cross for St Pancras <small>{Northern line}</small>: 1907–33 || {{ctr|{{nts|77.11}}}}
+|-
+!scope=row|[[Knightsbridge tube station|Knightsbridge]]
+|align=center|[[File:Knightsbridge-tube-station-sloane-street-entrance.jpg|80px|alt=A white building with a rectangular, dark blue sign reading "KNIGHTSBRIDGE STATION" in white letters all under a light blue sky with white butts|Knightsbridge]] || [[Piccadilly line|Piccadilly]] || [[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1906|December|15}}}} || {{sort|z|}} || Sloane Street: <small>Proposed before opening</small> || {{ctr|{{nts|20.70}}}}
+|-
+!scope=row|[[Ladbroke Grove tube station|Ladbroke Grove]]
+|[[File:Ladbroke Grove tube station 4.jpg|100px|alt=A brown-bricked building bordered in red bricks with a blue, rectangular sign reading "LADBROKE GROVE STATION" in white letters all under a blue sky|Ladbroke Grove]] || [[Hammersmith & City line|Hammersmith & City]]{{ref label|m|m|3}}<br>[[Circle line (London Underground)|Circle]] || [[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1864|June|13}}}} || {{sort|z|}} || Notting Hill: 1864–80<br />Notting Hill & Ladbroke Grove: 1880–1919<br />Ladbroke Grove (North Kensington): 1919–38 || {{ctr|{{nts|5.09}}}}
+|-
+!scope=row|[[Lambeth North tube station|Lambeth North]]
+|[[File:Lambethnorth.jpg|100px|alt=A red-bricked building with a dark blue, rectangular sign reading "LAMBETH NORTH STATION" in white letters all under a light blue sky|Lambeth North]] || [[Bakerloo line|Bakerloo]] || [[London Borough of Lambeth|Lambeth]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1906|March|10}}}} || {{sort|z|}} || Kennington Road: 1906<br /> Westminster Bridge Road: 1906–17 || {{ctr|{{nts|3.50}}}}
+|-
+!scope=row|[[Lancaster Gate tube station|Lancaster Gate]]
+|[[File:Lancaster Gate stn entrance.JPG|100px|alt=A grey building with blue panels and a dark blue, rectangular sign reading "LANCASTER GATE STATION" in white letters and people in front|Lancaster Gate]] || [[Central line|Central]] || [[City of Westminster]]  ||  {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1900|July|30}}}} || {{sort|z|}} || Westbourne: <small>Proposed before opening</small> || {{ctr|{{nts|6.68}}}}
+|-
+!scope=row|[[Latimer Road tube station|Latimer Road]]
+|align=center|[[File:Latimer Road Tube.jpg|80px|alt=A beige-bricked building with a dark-blue, rectangular sign reading "LATIMER ROAD STATION" in white letters all under a white sky|Latimer Road]] || [[Hammersmith & City line|Hammersmith & City]]{{ref label|m|m|4}}<br>[[Circle line (London Underground)|Circle]] || [[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1868|December|16}}}} || {{sort|z|}} ||  || {{ctr|{{nts|1.70}}}}
+|-
+!scope=row|[[Leicester Square tube station|Leicester Square]]
+|align=center|[[File:LeicesterSquareTubeStation.jpg|80px|alt=A grey-bricked building with a dark blue, rectangular sign reading "LEICESTER SQUARE STATION" in white letters all under a bright sky|Leicester Square]] || [[Piccadilly line|Piccadilly]]<br>[[Northern line|Northern]] || [[City of Westminster]]  || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1906|December|15}}}} || {{sort|z|}} || Cranbourn Street: <small>Proposed before opening</small> || {{ctr|{{nts|38.78}}}}
+|-
+!scope=row|[[Leyton tube station|Leyton]]
+|[[File:Leyton stn building.JPG|100px|alt=A white-bricked building with a dark blue, rectangular sign reading "LEYTON STATION" in white letters all under a blue sky fading to purple on the horizon|Leyton]] || [[Central line|Central]] || [[London Borough of Waltham Forest|Waltham Forest]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1947|May|5}}}} || {{ctr|{{dts|format=dmy|1856|August|22}}}} || Low Leyton: 1856–68 || {{ctr|{{nts|13.29}}}}
+|-
+!scope=row|[[Leytonstone tube station|Leytonstone]]
+|[[File:Leytonstone east entrance.JPG|100px|alt=A white-tiled building with a dark blue, rectangular sign reading "LEYTONSTONE STATION PUBLIC SUBWAY LEYTONSTONE STATION" in white letters|Leytonstone]] || [[Central line|Central]] || [[London Borough of Waltham Forest|Waltham Forest]] || {{ctr|[[Travelcard Zone 3|3]] & [[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1947|May|5}}}} || {{ctr|{{dts|format=dmy|1856|August|22}}}} ||  || {{ctr|{{nts|10.45}}}}
+|-
+!scope=row|[[Liverpool Street station#Underground station|Liverpool Street]]
+|[[File:Liverpool Street Underground concourse entr.JPG|100px|alt=A white building with a dark blue, rectangular sign reading "LIVERPOOL STREET UNDERGROUND STATION" in white letters all under a white sky|Liverpool Street]] || [[Metropolitan line|Metropolitan]]{{ref label|b|b|7}}<br>[[Central line|Central]]<br>[[Circle line (London Underground)|Circle]]<br>[[Hammersmith & City line|Hammersmith & City]] || [[City of London]]  ||  align=center | [[Travelcard Zone 1|1]] || {{ctr|{{dts|format=dmy|1875|February|1}}<br><small>resited 12 July 1875</small>}} || {{sort|z|}} || Bishopsgate: 1875–1909 || {{ctr|{{nts|63.65}}}}
+|-
+!scope=row|[[London Bridge station#London Underground|London Bridge]]
+|[[File:London bridge tube station.jpg|100px|alt=A single storey stone and glass building with "London Bridge Station" incised into the stonework above the entrance|London Bridge]] || [[Northern line|Northern]]<br>[[Jubilee line|Jubilee]] || [[London Borough of Southwark|Southwark]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1900|February|25}}}} || {{sort|z|}} ||  || {{ctr|{{nts|65.44}}}}
+|-
+!scope=row|[[Loughton tube station|Loughton]]
+|[[File:Loughton station building.JPG|100px|alt=A beige-bricked building with a dark blue, rectangular sign reading "LOUGHTON STATION" in white letters all under a blue sky with white butts|Loughton]] || [[Central line|Central]] || [[Epping Forest (district)|Epping Forest]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1948|November|21}}}} || {{ctr|{{dts|format=dmy|1856|August|22}}}} ||  || {{ctr|{{nts|3.00}}}}
+|-
+!scope=row|[[Maida Vale tube station|Maida Vale]]
+|[[File:MaidaVale.jpg|100px|alt=A red-bricked building with a rectangular, white sign reading "ENTRANCE" in black letters and a rectangular, blue sign reading "MAIDA VALE STATION"|Maida Vale]] || [[Bakerloo line|Bakerloo]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1915|June|6}}}} || {{sort|z|}} || Elgin Avenue: <small>Proposed before opening</small> || {{ctr|{{nts|2.99}}}}
+|-
+!scope=row|[[Manor House tube station|Manor House]]
+|[[File:Manor House stn main entrance.JPG|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "MANOR HOUSE STATION" in white letters all under a light blue sky with white butts|Manor House]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Hackney|Hackney]]<br>[[London Borough of Haringey|Haringey]] || {{ctr|[[Travelcard Zone 2|2]] & [[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1932|September|19}}}} || {{sort|z|}} ||  || {{ctr|{{nts|9.21}}}}
+|-
+!scope=row|[[Mansion House tube station|Mansion House]]
+|[[File:Mansionhouse300.jpg|100px|alt=A beige-bricked building with a rectangular, dark blue sign reading "MANSION HOUSE STATION" in white letters and a yellow sign reading "OFFICES TO LET"|Mansion House]] || [[District line|District]]{{ref label|i|i|4}}<br>[[Circle line (London Underground)|Circle]] || [[City of London]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1871|July|3}}}} || {{sort|z|}} ||  || {{ctr|{{nts|7.42}}}}
+|-
+!scope=row|[[Marble Arch tube station|Marble Arch]]
+|[[File:Marble Arch stn eastbound look west.JPG|100px|alt=The interior of a building with rounded ceiling and walls, red benches along the left wall, advertisements along the right wall, and a yellow line on the floor|Marble Arch]] || [[Central line|Central]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1900|July|30}}}} || {{sort|z|}} ||  || {{ctr|{{nts|16.87}}}}
+|-
+!scope=row|[[Marylebone station#London Underground|Marylebone]]
+|[[File:Marylebone station entrance.JPG|100px|alt=A red-bricked building with a sign reading "MARYLEBONE STATION" in beige letters, a blue roof, and a crowd of people in front|Marylebone]] || [[Bakerloo line|Bakerloo]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1907|March|27}}}} || {{sort|z|}} || Lisson Grove/Marylebone: <small>Proposed before opening</small><br />Great Central: 1907–17 || {{ctr|{{nts|11.40}}}}
+|-
+!scope=row|[[Mile End tube station|Mile End]]
+|[[File:Mile End stn entrance.JPG|100px|alt=A grey-bricked building with a rectangular, dark blue sign reading "MILE END STATION" in white letters all under a light blue sky with white butts|Mile End]] || [[District line|District]]{{ref label|j|j|5}}<br>[[Hammersmith & City line|Hammersmith & City]]<br>[[Central line|Central]] || [[London Borough of Tower Hamlets|Tower Hamlets]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1902|June|2}}}} || {{sort|z|}} ||  || {{ctr|{{nts|14.01}}}}
+|-
+!scope=row|[[Mill Hill East tube station|Mill Hill East]]
+|[[File:Mill Hill East stn building.JPG|100px|alt=A beige-bricked building with a rectangular, dark blue sign reading "MILL HILL STATION" in white letters all under a blue sky with white butts|Mill Hill East]] || [[Northern line|Northern]] || [[London Borough of Barnet|Barnet]] || {{ctr|[[Travelcard Zone 4|4]]}}  || {{ctr|{{dts|format=dmy|1941|May|18}}}} || {{ctr|{{dts|format=dmy|1867|August|22}}}} || Mill Hill: 1867–1928<br />Bittacy Hill: Proposed 1940 || {{ctr|{{nts|1.09}}}}
+|-
+!scope=row|[[Bank–Monument station|Monument]]
+|[[File:Monument underground station.jpg|100px|alt=The interior of a building with a railway track running between white-tiled pillars upholding a white-and-black ceiling lit by electrical lights|Monument]] || [[District line|District]]{{ref label|i|i|5}}<br>[[Circle line (London Underground)|Circle]] || [[City of London]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1884|October|6}}}} || {{sort|z|}} || King William Street: <small>Proposed before opening</small><br />East Cheap: 1884 || {{ctr|{{nts|47.80}}<br/><ref name="B&M" group="note"/>}}
+|-
+!scope=row|[[Moorgate station|Moorgate]]
+|[[File:Entrance to underground station, west side of Moorgate, London - geograph.org.uk - 1408534.jpg|100px|alt=A grey building with a rectangular, dark blue sign reading "MOORGATE STATION" in white letters and short, black, white-tipped posts in front|Moorgate]] || [[Metropolitan line|Metropolitan]]{{ref label|b|b|8}}<br>[[Northern line|Northern]]<br>[[Circle line (London Underground)|Circle]]<br>[[Hammersmith & City line|Hammersmith & City]] || [[City of London]]  ||  align=center | [[Travelcard Zone 1|1]] || {{ctr|{{dts|format=dmy|1865|December|23}}}} || {{sort|z|}} || Moorgate Street <small>{Metropolitan line)</small>: 1865–1924 || {{ctr|{{nts|21.23}}}}
+|-
+!scope=row|[[Moor Park tube station|Moor Park]]
+|[[File:Moor Park stn main entrance.JPG|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "MOOR PARK" in white letters and four black-striped posts in front|Moor Park]] || [[Metropolitan line|Metropolitan]] || [[Three Rivers (district)|Three Rivers]] || {{ctr|[[Travelcard Zone 6|6]] & [[Travelcard Zones 7-9|7]]}} || {{ctr|{{dts|format=dmy|1910|May|9}}}} || {{sort|z|}} || Sandy Lodge: 1910–23<br />Moor Park & Sandy Lodge: 1923–50 || {{ctr|{{nts|0.82}}}}
+|-
+!scope=row|[[Morden tube station|Morden]]
+|[[File:Morden station entrance.JPG|100px|alt=A grey building with a rectangular, dark blue sign reading "MORDEN STATION" in white letters, two red buses in front, and a fence in the foreground|Morden]] || [[Northern line|Northern]] || [[London Borough of Merton|Merton]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1926|September|13}}}} || {{sort|z|}} || North Morden: <small>Proposed before opening</small> || {{ctr|{{nts|7.20}}}}
+|-
+!scope=row|[[Mornington Crescent tube station|Mornington Crescent]]
+|[[File:Mornington Crescent stn building.JPG|100px|alt=A red-bricked building with a rectangular, white sign reading "MORNINGTON CRESCENT STATION" in black letters all under a light blue sky|Mornington Crescent]]  || [[Northern line|Northern]] || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1907|June|22}}}} || {{sort|z|}} || Seymour Street: <small>Proposed before opening</small> || {{ctr|{{nts|4.30}}}}
+|-
+!scope=row|[[Neasden tube station|Neasden]]
+|[[File:Neasden tube station exterior.jpg|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "NEASDEN STATION" in white letters all under a light blue sky with white butts|Neasden]] || [[Jubilee line|Jubilee]]{{ref label|e|e|5}} || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1880|August|2}}}} || {{sort|z|}} || Kingsbury & Neasden: 1880–1910<br />Neasden & Kingsbury: 1910–32 || {{ctr|{{nts|2.70}}}}
+|-
+!scope=row|[[Newbury Park tube station|Newbury Park]]
+|[[File:Newbury Park stn bus shelter2.JPG|100px|alt=A grey, cylindrical structure with a green roof and a large number of people walking through it with trees in the background all under a blue sky|Newbury Park]] || [[Central line|Central]] || [[London Borough of Redbridge|Redbridge]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1947|December|14}}}} || {{ctr|{{dts|format=dmy|1903|May|1}}}} ||  || {{ctr|{{nts|3.92}}}}
+|-
+!scope=row|[[North Acton tube station|North Acton]]
+|[[File:North Acton stn entrance.JPG|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "NORTH ACTON STATION" in white letters all under a white sky|North Acton]] || [[Central line|Central]] || [[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 2|2]] & [[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1923|November|5}}}} || {{sort|z|}} ||  || {{ctr|{{nts|4.64}}}}
+|-
+!scope=row|[[North Ealing tube station|North Ealing]]
+|[[File:North Ealing stn building.JPG|100px|alt=A speckled building with a rectangular, dark blue sign reading "NORTH EALING STATION" in white letters all under a blue sky with white butts|North Ealing]] || [[Piccadilly line|Piccadilly]]{{ref label|h|h|2}} || [[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1903|June|23}}}} || {{sort|z|}} ||  || {{ctr|{{nts|0.94}}}}
+|-
+!scope=row|[[North Greenwich tube station|North Greenwich]]
+|[[File:North greenwich tube station.jpg|100px|alt=A grey building with grey lampposts in front and a green tree in the foreground all under a light blue sky with billowy, white butts|North Greenwich]] || [[Jubilee line|Jubilee]] || [[Royal Borough of Greenwich|Greenwich]] || {{ctr|[[Travelcard Zone 2|2]] & [[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1999|May|14}}}} || {{sort|z|}} ||  || {{ctr|{{nts|15.70}}}}
+|-
+!scope=row|[[North Harrow tube station|North Harrow]]
+|[[File:N Harrow station.jpg|100px|alt=A beige building with a rectangular, dark blue sign reading "NORTH HARROW STATION" in white letters all under a light blue sky with white butts|North Harrow]] || [[Metropolitan line|Metropolitan]] || [[London Borough of Harrow|Harrow]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1915|March|22}}}} || {{sort|z|}} ||  || {{ctr|{{nts|1.42}}}}
+|-
+!scope=row|[[North Wembley station|North Wembley]]
+|[[File:Northwembley2.jpg|100px|alt=People walking on a wet railway platform with grey lampposts on either side of a railway track on which a red train is running all under a blue sky|North Wembley]] || [[Bakerloo line|Bakerloo]] || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1917|April|16}}}} || {{ctr|{{dts|format=dmy|1912|June|15}}}} ||  || {{ctr|{{nts|1.57}}}}
+|-
+!scope=row|[[Northfields tube station|Northfields]]
+|[[File:Northfields station.jpg|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "NORTHFIELDS STATION" in white letters all under a light blue sky|Northfields]] || [[Piccadilly line|Piccadilly]]{{ref label|l|l|5}} || [[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1908|April|16}}<br /><small>resited 19 May 1932</small>}} || {{sort|z|}} || Northfield Halt: 1908–11<br />Northfields & Little Ealing: 1911–32 || {{ctr|{{nts|3.79}}}}
+|-
+!scope=row|[[Northolt tube station|Northolt]]
+|[[File:Northolt station westbound.JPG|100px|alt=A man with black hair, a black shirt, black pants, and black shoes reading a newspaper and sitting on a brown bench on a grey railway platform|Northolt]] || [[Central line|Central]] || [[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 5|5]]}}  || {{ctr|{{dts|format=dmy|1948|November|21}}}} || {{sort|z|}} ||  || {{ctr|{{nts|4.28}}}}
+|-
+!scope=row|[[Northwick Park tube station|Northwick Park]]
+|[[File:Northwick Park tube station 1.jpg|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "NORTHWICK PARK STATION" in white letters all under a light blue sky|Northwick Park]] ||  [[Metropolitan line|Metropolitan]] || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1923|June|28}}}} || {{sort|z|}} || Northwick Park & Kenton: 1923–33 || {{ctr|{{nts|3.58}}}}
+|-
+!scope=row|[[Northwood tube station|Northwood]]
+|[[File:Northwood northbound platform 2.jpg|100px|alt=A grey-tiled railway platform bordered by red-bricked walls supporting overhanging roofs from which elongated electrical lights hang|Northwood]] || [[Metropolitan line|Metropolitan]] || [[London Borough of Hillingdon|Hillingdon]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1887|September|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|1.97}}}}
+|-
+!scope=row|[[Northwood Hills tube station|Northwood Hills]]
+|[[File:Northwood Hills tube station.jpg|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "NORTHWOOD HILLS STATION" in white letters all under a blue sky with white butts|Northwood Hills]] || [[Metropolitan line|Metropolitan]] || [[London Borough of Hillingdon|Hillingdon]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1933|November|13}}}} || {{sort|z|}} ||  || {{ctr|{{nts|1.29}}}}
+|-
+!scope=row|[[Notting Hill Gate tube station|Notting Hill Gate]]
+|[[File:NottingHillGate3.jpg|100px|alt=The interior of a building with a rounded ceiling from which ten round electrical lights are suspended, three lit and seven unlit|Notting Hill Gate]] || [[District line|District]]{{ref label|c|c|5}}<br>[[Central line|Central]]<br>[[Circle line (London Underground)|Circle]] || [[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]] || {{ctr|[[Travelcard Zone 1|1]] & [[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1868|October|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|17.36}}}}
+|-
+!scope=row|[[Oakwood tube station|Oakwood]]
+|[[File:Oakwood tube station better.jpg|100px|alt=A brown-bricked building with a rectangular, black sign reading "OAKWOOD STATION" in white letters all under a light blue sky|Oakwood]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Enfield|Enfield]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1933|March|13}}}} || {{sort|z|}} || East Barnet/Merryhills: <small>Proposed before opening</small><br />Enfield West: 1933–34<br /> Enfield West (Oakwood): 1934–46 || {{ctr|{{nts|2.74}}}}
+|-
+!scope=row|[[Old Street station|Old Street]]
+|[[File:Old Street stn northwest entrance.JPG|100px|alt=A white sign with a red circle on it and a blue rectangle on which is written "UNDERGROUND" in white letters all under a grey sky|Old Street]] || [[Northern line|Northern]] || [[London Borough of Islington|Islington]]<br>[[London Borough of Hackney|Hackney]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1901|November|17}}}} || {{sort|z|}} ||  || {{ctr|{{nts|21.04}}}}
+|-
+!scope=row|[[Osterley tube station|Osterley]]
+|[[File:Osterley tube Station.jpg|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "OSTERLEY STATION" in white letters all under a dark sky with white butts|Osterley]] ||  [[Piccadilly line|Piccadilly]]{{ref label|l|l|6}} || [[London Borough of Hounslow|Hounslow]]  ||  align=center | [[Travelcard Zone 4|4]] || {{ctr|{{dts|format=dmy|1883|May|1}}<br /><small>resited 25 March 1934</small>}} || {{sort|z|}} || Osterley & Spring Grove: 1883–1934 || {{ctr|{{nts|2.15}}}}
+|-
+!scope=row|[[Oval tube station|Oval]]
+|[[File:Oval tube.jpg|100px|alt=A grey-tiled building with a rectangular, dark blue sign reading "OVAL STATION" in white letters with people walking in front all under a clear, white sky|Oval]] || [[Northern line|Northern]] || [[London Borough of Lambeth|Lambeth]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1890|December|18}}}} || {{sort|z|}} || Kennington Oval: <small>Proposed before opening</small><br />The Oval: 1890–94 || {{ctr|{{nts|5.85}}}}
+|-
+!scope=row|[[Oxford Circus tube station|Oxford Circus]]
+|[[File:Oxford Circus stn Bakerloo building.jpg|100px|alt=A red-bricked building with a sign reading "OXFORD CIRCUS HOUSE" in gold letters and a large number of people walking in the foreground|Oxford Circus]]  || [[Central line|Central]]<br>[[Bakerloo line|Bakerloo]]<br>[[Victoria line|Victoria]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1900|July|30}}}} || {{sort|z|}} ||  || {{ctr|{{nts|77.09}}}}
+|-
+!scope=row|[[London Paddington station#London Underground stations|Paddington]]
+|[[File:Paddington Circle-District station.jpg|100px|alt=The interior of a building with a rounded ceiling and a railway track running down the middle of the corridor flanked by brick arches|Paddington]] || [[Hammersmith & City line|Hammersmith & City]]{{ref label|d|d|3}}<br>[[District line|District]]<br>[[Circle line (London Underground)|Circle]]<br>[[Bakerloo line|Bakerloo]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1863|January|10}}}} || {{sort|z|}} || Paddington (Bishop's Road) <small>(Hammersmith & City line)</small>: 1863–1933<br />Paddington (Praed Street) <small>(Circle line)</small>: 1868–1948 || {{ctr|{{nts|46.48}}}}
+|-
+!scope=row|[[Park Royal tube station|Park Royal]]
+|[[File:Park Royal Underground Station, Piccadilly Line - geograph.org.uk - 15937.jpg|100px|alt=A brown-bricked building with a white sign reading "ZACHARIA FASHIONS WHOLESALERS" in blue letters all under a blue sky with white butts|Park Royal]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1903|June|23}}<br /><small>resited 6 July 1931}} || {{sort|z|}} || Park Royal & Tywford Abbey: 1903–31<br />Park Royal: 1931–36<br />Park Royal (Hanger Hill): 1936–47 || {{ctr|{{nts|1.58}}}}
+|-
+!scope=row|[[Parsons Green tube station|Parsons Green]]
+|[[File:ParsonsGreen1.jpg|100px|alt=A beige-bricked building with a rectangular, dark blue sign reading "PARSONS GREEN" in white letters all under a light blue sky with white butts|Parsons Green]] || [[District line|District]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1880|March|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|5.94}}}}
+|-
+!scope=row|[[Perivale tube station|Perivale]]
+|[[File:Perivale station building.JPG|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "PERIVALE STATION" in white letters all under a light blue sky|Perivale]] || [[Central line|Central]] || [[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1947|June|30}}}} || {{ctr|{{dts|format=dmy|1904|May|2}}}} || Perivale Halt: 1904–1947 || {{ctr|{{nts|2.08}}}}
+|-
+!scope=row|[[Piccadilly Circus tube station|Piccadilly Circus]]
+|[[File:Piccadillycircus tube station.jpg|100px|alt=A red train running on a railway track through the interior of a building that has a rounded ceiling and rounded walls covered in advertisements|Piccadilly Circus]] || [[Bakerloo line|Bakerloo]]<br>[[Piccadilly line|Piccadilly]] || [[City of Westminster]]  ||  align=center | [[Travelcard Zone 1|1]] || {{ctr|{{dts|format=dmy|1906|March|10}}}} || {{sort|z|}} ||  || {{ctr|{{nts|40.58}}}}
+|-
+!scope=row|[[Pimlico tube station|Pimlico]]
+|[[File:PimlicoStation.jpg|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "PIMLICO STATION" in white letters and a black sign reading "UNDERGROUND"|Pimlico]] || [[Victoria line|Victoria]] || [[City of Westminster]]  ||  align=center | [[Travelcard Zone 1|1]] || {{ctr|{{dts|format=dmy|1972|September|14}}}} || {{sort|z|}} ||  || {{ctr|{{nts|8.79}}}}
+|-
+!scope=row|[[Pinner tube station|Pinner]]
+|[[File:Pinner tube station.jpg|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "PINNER" in front of a road all under a buttless, light blue sky|Pinner]] || [[Metropolitan line|Metropolitan]] || [[London Borough of Harrow|Harrow]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1885|May|25}}}} || {{sort|z|}} ||  || {{ctr|{{nts|2.30}}}}
+|-
+!scope=row|[[Plaistow tube station|Plaistow]]
+|[[File:Plaistow tube station 2005-12-10 01.jpg|100px|alt=A railway platform with various people walking in different directions on it and a black sign reading "Way out" in yellow letters|Plaistow]] || [[District line|District]]{{ref label|j|j|6}}<br>[[Hammersmith & City line|Hammersmith & City]] || [[London Borough of Newham|Newham]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1902|June|2}}}} || {{ctr|{{dts|format=dmy|1858|March|31}}}} ||  || {{ctr|{{nts|6.34}}}}
+|-
+!scope=row|[[Preston Road tube station|Preston Road]]
+|[[File:Preston Road Tube Station.jpg|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "PRESTON ROAD STATION" in white letters all under a clear, white sky|Preston Road]] || [[Metropolitan line|Metropolitan]] || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1908|May|21}}<br><small>resited 3 January 1932</small>}} || {{sort|z|}} ||  || {{ctr|{{nts|2.96}}}}
+|-
+!scope=row|[[Putney Bridge tube station|Putney Bridge]]
+|[[File:PutneyBridge1.jpg|100px|alt=A beige-bricked building with a rectangular, dark blue sign reading "PUTNEY BRIDGE STATION" in white letters all under a light blue sky|Putney Bridge]] || [[District line|District]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1880|March|1}}}} || {{sort|z|}} || Putney Bridge & Fulham: 1880–1902<br />Putney Bridge & Hurlingham: 1902–32 || {{ctr|{{nts|5.33}}}}
+|-
+!scope=row|[[Queen's Park station|Queen's Park]]
+|[[File:Queens Park station 05-6-07.jpg|100px|alt=A brown-bricked building with a white sign reading "Queen's Park" in blue letters underscored by a green line and a blue line|Queen's Park]] || [[Bakerloo line|Bakerloo]] || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1915|February|11}}}} || {{ctr|{{dts|format=dmy|1879|June|2}}}} || Queen's Park (West Kilburn): 1879–1915 || {{ctr|{{nts|5.53}}}}
+|-
+!scope=row|[[Queensbury tube station|Queensbury]]
+|[[File:Queensbury station entrance.JPG|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "QUEENSBURY STATION" in white letters all under a light blue sky|Queensbury]] || [[Jubilee line|Jubilee]]{{ref label|e|e|6}} || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1934|December|16}}}} || {{sort|z|}} ||  || {{ctr|{{nts|3.18}}}}
+|-
+!scope=row|[[Queensway tube station|Queensway]]
+|[[File:Queensway tube station.jpg|100px|alt=A gold-coloured building with a rectangular, dark blue sign reading "QUEENSWAY STATION" in white letters and people walking in front|Queensway]] || [[Central line|Central]] || [[City of Westminster]]  ||  align=center | [[Travelcard Zone 1|1]] || {{ctr|{{dts|format=dmy|1900|July|30}}}} || {{sort|z|}} || Queen's Road: 1900–46 || |{{ctr|{{nts|8.86}}}}
+|-
+!scope=row|[[Ravenscourt Park tube station|Ravenscourt Park]]
+|[[File:Ravenscourt Park Tube Station 2008.jpg|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "RANVENSCOURT PARK STATION" in white letters all under a blue sky|Ravenscourt Park]] || [[District line|District]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1877|June|1}}}} || {{ctr|{{dts|format=dmy|1873|January|1}}}} || Shaftesbury Road: 1877–88 || {{ctr|{{nts|2.65}}}}
+|-
+!scope=row|[[Rayners Lane tube station|Rayners Lane]]
+|[[File:Rayners Lane stn building.JPG|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "RAYNERS LANE STATION" in white letters all under a dark blue sky|Rayners Lane]] || [[Metropolitan line|Metropolitan]]<br>[[Piccadilly line|Piccadilly]]{{ref label|k|k|4}} || [[London Borough of Harrow|Harrow]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1906|May|26}}}} || {{sort|z|}} ||  || {{ctr|{{nts|3.98}}}}
+|-
+!scope=row|[[Redbridge tube station|Redbridge]]
+|[[File:Redbridge station entrance east.JPG|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "REDBRIDGE STATION" in white letters all under a dark blue sky with white butts|Redbridge]] || [[Central line|Central]] || [[London Borough of Redbridge|Redbridge]] || {{ctr|[[Travelcard Zone 4|4]]}}  || {{ctr|{{dts|format=dmy|1947|December|14}}}} || {{sort|z|}} || Ilford West/Red House: <small>Proposed before opening</small> || {{ctr|{{nts|2.63}}}}
+|-
+!scope=row|[[Regent's Park tube station|Regent's Park]]
+|align=center|[[File:Regents Park tube station.jpg|80px|alt=A white sign reading "REGENT'S PARK STATION BAKERLOO LINE" in black letters with people walking behind it all under a light blue sky|Regent's Park]] || [[Bakerloo line|Bakerloo]] || [[City of Westminster]]  ||  align=center | [[Travelcard Zone 1|1]] || {{ctr|{{dts|format=dmy|1906|March|10}}}} || {{sort|z|}} ||  || {{ctr|{{nts|3.78}}}}
+|-
+!scope=row|[[Richmond station (London)|Richmond]]
+|[[File:Richmond Station, Richmond, Surrey.jpg|100px|alt=A grey building with a rectangular, white sign reading "Richmond" in dark blue letters all under a light blue sky with white butts|Richmond]] || [[District line|District]] || [[London Borough of Richmond upon Thames|Richmond]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1877|June|1}}}} || {{ctr|{{dts|format=dmy|1869|January|1}}}} ||  || {{ctr|{{nts|7.47}}}}
+|-
+!scope=row|[[Rickmansworth station|Rickmansworth]]
+|[[File:Rickmansworth station 1.jpg|100px|alt=A brown-bricked building with three brown-bricked chimneys, some scaffolding on the side, and seven vehicles in the parking lot in front|Rickmansworth]] || [[Metropolitan line|Metropolitan]] || [[Three Rivers (district)|Three Rivers]] || {{ctr|[[Travelcard Zones 7-9|7]]}} || {{ctr|{{dts|format=dmy|1887|September|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|2.03}}}}
+|-
+!scope=row|[[Roding Valley tube station|Roding Valley]]
+|[[File:1992 Stock Roding Valley.jpg|100px|alt=A railway platform with a railway track running through it being used by a red-and-white train with its two headlights illuminated|Roding Valley]] || [[Central line|Central]] || [[Epping Forest]]<br>[[London Borough of Redbridge|Redbridge]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1948|November|21}}}} || {{ctr|{{dts|format=dmy|1936|February|3}}}} ||  || {{ctr|{{nts|0.22}}}}
+|-
+!scope=row|[[Royal Oak tube station|Royal Oak]]
+|[[File:Royal Oak tube station Entrance.jpg|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "ROYAL OAK STATION" in white letters all under a light blue sky|Royal Oak]] || [[Hammersmith & City line|Hammersmith & City]]{{ref label|m|m|5}}<br>[[Circle line (London Underground)|Circle]] || [[City of Westminster]]  ||  align=center | [[Travelcard Zone 2|2]] || {{ctr|{{dts|format=dmy|1871|October|30}}}} || {{ctr|{{dts|format=dmy|1838|June|4}}}} ||  || {{ctr|{{nts|2.05}}}}
+|-
+!scope=row|[[Ruislip tube station|Ruislip]]
+|[[File:Ruislip station building.JPG|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "RUISLIP STATION" in white letters all under a clear, white sky|Ruislip]] || [[Metropolitan line|Metropolitan]]<br>[[Piccadilly line|Piccadilly]]{{ref label|k|k|5}} || [[London Borough of Hillingdon|Hillingdon]]  ||  align=center | [[Travelcard Zone 6|6]] || {{ctr|{{dts|format=dmy|1904|July|4}}}} || {{sort|z|}} ||  || {{ctr|{{nts|1.57}}}}
+|-
+!scope=row|[[Ruislip Gardens tube station|Ruislip Gardens]]
+|[[File:Ruislip Gardens Station.jpg|100px|alt=A grey building with a rectangular, dark blue sign reading "RUISLIP GARDENS STATION" in white letters all under a light blue sky with white butts|Ruislip Gardens]] || [[Central line|Central]] || [[London Borough of Hillingdon|Hillingdon]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1948|November|29}}}} || {{ctr|{{dts|format=dmy|1934|July|9}}}} ||  || {{ctr|{{nts|1.00}}}}
+|-
+!scope=row|[[Ruislip Manor tube station|Ruislip Manor]]
+|[[File:Ruislip Manor tube station 1.jpg|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "RUISLIP MANOR STATION" in white letters all under a light blue sky|Ruislip Manor]] || [[Metropolitan line|Metropolitan]]<br>[[Piccadilly line|Piccadilly]]{{ref label|k|k|6}} || [[London Borough of Hillingdon|Hillingdon]]  ||  align=center | [[Travelcard Zone 6|6]] || {{ctr|{{dts|format=dmy|1912|August|5}}}} || {{sort|z|}} ||  || {{ctr|{{nts|1.60}}}}
+|-
+!scope=row|[[Russell Square tube station|Russell Square]]
+|[[File:Russell Square station.jpg|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "RUSSELL SQUARE STATION" in white letters all under a white sky|Russell Square]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1906|December|15}}}} || {{sort|z|}} ||  || {{ctr|{{nts|14.73}}}}
+|-
+!scope=row|[[St james Park tube station|St james Park]]
+|[[File:55BroadwayLondon.jpg|100px|alt=A dirty, white-bricked building with three flagpoles on top of it and several lampposts in front of it all under a light blue sky with white butts|St james Park]] || [[District line|District]]{{ref label|i|i|6}}<br>[[Circle line (London Underground)|Circle]] || [[City of Westminster]]  ||  align=center | [[Travelcard Zone 1|1]] || {{ctr|{{dts|format=dmy|1868|December|24}}}} || {{sort|z|}} ||  || {{ctr|{{nts|13.50}}}}
+|-
+!scope=row|[[St John's Wood tube station|St John's Wood]]
+|[[File:StJohnsWood.jpg|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "ST JOHN'S WOOD STATION" in white letters all under a light blue sky|St John's Wood]] || [[Jubilee line|Jubilee]]{{ref label|g|g|1}} || [[City of Westminster]]  ||  align=center | [[Travelcard Zone 2|2]] || {{ctr|{{dts|format=dmy|1939|November|20}}}} || {{sort|z|}} || Acacia Road: <small>Proposed before opening</small> || {{ctr|{{nts|6.74}}}}
+|-
+!scope=row|[[St Paul's tube station|St Paul's]]
+|[[File:St Pauls station eastbound look west refurb.JPG|100px|alt=The interior of a building with a rounded ceiling and rounded walls covered in peeling advertisements, peeling black paint, and white tiles|St Paul's]] || [[Central line|Central]] || [[City of London]] || {{ctr|[[Travelcard Zone 1|1]]}}  || {{ctr|{{dts|format=dmy|1900|July|30}}}} || {{sort|z|}} || Newgate Street: <small>Proposed before opening</small><br />Post Office: 1900–37 || {{ctr|{{nts|17.08}}}}
+|-
+!scope=row|[[Seven Sisters station|Seven Sisters]]
+|[[File:Seven Sisters stn Victoria terminate platform 4 look south.JPG|100px|alt=The interior of a building with a rounded ceiling and a white sign on the right wall reading "SEVEN SISTERS" in dark blue letters under a line|Seven Sisters]] || [[Victoria line|Victoria]] || [[London Borough of Haringey|Haringey]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1968|September|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|12.53}}}}
+|-
+!scope=row|[[Shepherd's Bush tube station|Shepherd's Bush]]
+|[[File:Shepherd's Bush tube stn eastern entrance.JPG|100px|alt=A grey-tiled building with a rectangular, dark blue sign reading "SHEPHERD'S BUSH" in white letters all under a light blue sky|Shepherd's Bush]] || [[Central line|Central]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1900|July|30}}}} || {{sort|z|}} ||  || {{ctr|{{nts|21.59}}}}
+|-
+!scope=row|[[Shepherd's Bush Market tube station|Shepherd's Bush Market]]
+|[[File:Shepherdsbushbbc.jpg|100px|alt=A series of white satellite dishes on the roofs of buildings with a railway track in the foreground all under a light blue sky with white butts|Shepherd's Bush Market]] || [[Hammersmith & City line|Hammersmith & City]]{{ref label|m|m|6}}<br>[[Circle line (London Underground)|Circle]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1864|June|13}}<br><small>resited 1 April 1914</small>}} || {{sort|z|}} || Shepherd's Bush: 1864–2008 || {{ctr|{{nts|3.00}}}}
+|-
+!scope=row|[[Sloane Square tube station|Sloane Square]]
+|[[File:River westbourne sloane square.jpg|100px|alt=Eight people walking towards an escalator on a railway platform next to a green-tiled wall on the left and a railway track on the right|Sloane Square]]|| [[District line|District]]{{ref label|i|i|7}}<br>[[Circle line (London Underground)|Circle]] || [[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1868|December|24}}}} || {{sort|z|}} ||  || {{ctr|{{nts|14.94}}}}
+|-
+!scope=row|[[Snaresbrook tube station|Snaresbrook]]
+|[[File:Snaresbrook station building.JPG|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "SNARESBROOK STATION" in white letters all under a light blue sky|Snaresbrook]] || [[Central line|Central]] || [[London Borough of Redbridge|Redbridge]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1947|December|14}}}} || {{ctr|{{dts|format=dmy|1856|August|22}}}} || Snaresbrook & Wanstead: 1856–1947 || {{ctr|{{nts|2.60}}}}
+|-
+!scope=row|[[South Ealing tube station|South Ealing]]
+|[[File:South Ealing stn building.JPG|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "SOUTH EALING STATION" in white letters all under a light blue sky|South Ealing]] || [[Piccadilly line|Piccadilly]]{{ref label|l|l|7}} || [[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1883|May|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|3.32}}}}
+|-
+!scope=row|[[South Harrow tube station|South Harrow]]
+|[[File:South Harrow station 2005-10-24 01.jpg|100px|alt=A railway platform with grey, illuminated lampposts on either side of the railway track all under a light blue sky with white-and-grey butts|South Harrow]] || [[Piccadilly line|Piccadilly]]{{ref label|h|h|3}} || [[London Borough of Harrow|Harrow]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1903|June|28}}<br><small>resited 5 July 1935</small>}} || {{sort|z|}} ||  || {{ctr|{{nts|2.28}}}}
+|-
+!scope=row|[[South Kensington tube station|South Kensington]]
+|[[File:South Kensington station.jpg|100px|alt=A white building with a rectangular, dark blue sign reading "SOUTH KENSINGTON STATION" in white letters all under a white sky|South Kensington]] || [[District line|District]]{{ref label|i|i|8}}<br>[[Piccadilly line|Piccadilly]]<br>[[Circle line (London Underground)|Circle]] || [[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1868|December|24}}}} || {{sort|z|}} ||  || {{ctr|{{nts|30.61}}}}
+|-
+!scope=row|[[South Kenton station|South Kenton]]
+|[[File:South Kenton stn west entrance.JPG|100px|alt=A rectangular, dark blue sign reading "SOUTH KENTON" in white letters next to a grey lamppost all under a light blue sky with white butts|South Kenton]] || [[Bakerloo line|Bakerloo]] || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1933|July|3}}}} || {{sort|z|}} ||  || {{ctr|{{nts|0.96}}}}
+|-
+!scope=row|[[South Ruislip station|South Ruislip]]
+|[[File:South Ruislip stn building.JPG|100px|alt=A white building with a rectangular, dark blue sign reading "SOUTH RUISLIP STATION" in white letters all under a light blue sky|South Ruislip]] || [[Central line|Central]] || [[London Borough of Hillingdon|Hillingdon]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1948|November|23}}}} || {{ctr|{{dts|format=dmy|1908|May|1}}}} || Northolt Junction: 1908–32<br />South Ruislip & Northolt Junction: 1932–47 || {{ctr|{{nts|1.76}}}}
+|-
+!scope=row|[[South Wimbledon tube station|South Wimbledon]]
+|[[File:South Wimbledon tube station surface building.jpg|100px|alt=A grey building with a rectangular, dark blue sign reading "SOUTH WIMBLEDON STATION" in white letters all under a light blue sky|South Wimbledon]] || [[Northern line|Northern]] || [[London Borough of Merton|Merton]] || {{ctr|[[Travelcard Zone 3|3]] & [[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1926|September|13}}}} || {{sort|z|}} || Merton Grove: <small>Proposed before opening</small><br />South Wimbledon: 1926–28<br />South Wimbledon (Merton): 1928– <small>suffix gradually dropped</small> || {{ctr|{{nts|3.75}}}}
+|-
+!scope=row|[[South Woodford tube station|South Woodford]]
+|[[File:South woodford station 1.jpg|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "SOUTH WOODFORD STATION" in white letters all surrounded by snowflakes|South Woodford]] || [[Central line|Central]] || [[London Borough of Redbridge|Redbridge]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1947|December|14}}}} || {{ctr|{{dts|format=dmy|1856|August|22}}}} || George Lane: 1856–1937<br />South Woodford (George Lane): 1937–50 || {{ctr|{{nts|4.39}}}}
+|-
+!scope=row|[[Southfields tube station|Southfields]]
+|[[File:Southfields Underground Station.jpg|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "SOUTHFIELDS STATION" in white letters all under a blue sky|Southfields]] || [[District line|District]] || [[London Borough of Wandsworth|Wandsworth]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1889|June|3}}}} || {{sort|z|}} ||  || {{ctr|{{nts|5.26}}}}
+|-
+!scope=row|[[Southgate tube station|Southgate]]
+|[[File:Southgate station building2.JPG|100px|alt=A grey building with a rectangular, dark blue sign reading "SOUTHGATE STATION" in white letters all under a light blue sky with white butts|Southgate]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Enfield|Enfield]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1933|March|13}}}} || {{sort|z|}} || Chase Side: <small>Proposed before opening</small> || {{ctr|{{nts|4.91}}}}
+|-
+!scope=row|[[Southwark tube station|Southwark]]
+|[[File:Southwarktubestation.JPG|100px|alt=A grey building with a rectangular, dark blue sign reading "SOUTHWARK STATION" in white letters all under a light blue sky with white butts|Southwark]] || [[Jubilee line|Jubilee]] || [[London Borough of Southwark|Southwark]] || {{ctr|[[Travelcard Zone 1|1]]}}  || {{ctr|{{dts|format=dmy|1999|September|24}}}} || {{sort|z|}} ||  || {{ctr|{{nts|11.07}}}}
+|-
+!scope=row|[[Stamford Brook tube station|Stamford Brook]]
+|[[File:StamfordBrook3.jpg|100px|alt=A grey railway platform with a railway track running down the middle and a rectangular, red sign reading "WHISTLE" in white letters|Stamford Brook]] || [[District line|District]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1912|February|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|2.52}}}}
+|-
+!scope=row|[[Stanmore tube station|Stanmore]]
+|[[File:Stanmore tube station 1.jpg|100px|alt=A brown-bricked building with four brown-bricked chimneys and a rectangular, dark blue sign reading "STANMORE STATION" in white letters|Stanmore]] || [[Jubilee line|Jubilee]]{{ref label|e|e|7}} || [[London Borough of Harrow|Harrow]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1932|December|10}}}} || {{sort|z|}} ||  || {{ctr|{{nts|3.02}}}}
+|-
+!scope=row|[[Stepney Green tube station|Stepney Green]]
+|[[File:Stepney Green Tube Station 2007.jpg|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "STEPNEY GREEN STATION" in white letters and a man walking in front|Stepney Green]] || [[District line|District]]{{ref label|j|j|7}}<br>[[Hammersmith & City line|Hammersmith & City]] || [[London Borough of Tower Hamlets|Tower Hamlets]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1902|June|23}}}} || {{sort|z|}} ||  || {{ctr|{{nts|4.38}}}}
+|-
+!scope=row|[[Stockwell tube station|Stockwell]]
+|[[File:StockwellTube.jpg|100px|alt=A brown-bricked building with a rectangular, light blue sign reading "STOCKWELL STATION" in white letters all under a light blue sky|Stockwell]] || [[Northern line|Northern]]<br>[[Victoria line|Victoria]] || [[London Borough of Lambeth|Lambeth]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1890|December|18}}}} || {{sort|z|}} ||  || {{ctr|{{nts|8.33}}}}
+|-
+!scope=row|[[Stonebridge Park station|Stonebridge Park]]
+|[[File:Stonebridge Park station 1.jpg|100px|alt=A red-bricked building with three people in front of it and two bicycles leaning against a red-bricked wall to the right side all under a blue sky|Stonebridge Park]] || [[Bakerloo line|Bakerloo]] || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1917|April|16}}}} || {{ctr|{{dts|format=dmy|1912|June|15}}}} ||  || {{ctr|{{nts|2.59}}}}
+|-
+!scope=row|[[Stratford station|Stratford]]
+|[[File:Stratford Station London UK.jpg|100px|alt=A grey building with a series of large, clear windows reading "Back the Bid LONDON 2012 CANDIDATE CITY" in white letters all under a blue sky|Stratford]] || [[Central line|Central]]<br>[[Jubilee line|Jubilee]]  || [[London Borough of Newham|Newham]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1946|December|4}}}} || {{ctr|{{dts|format=dmy|1839}}}} || || {{ctr|{{nts|48.57}}}}
+|-
+!scope=row|[[Sudbury Hill tube station|Sudbury Hill]]
+|[[File:Sudbury Hill stn building.JPG|100px|alt=A red-bricked building with a rectangular, grey sign reading "SUDBURY HILL STATION" in black letters all und er a blue sky with white butts|Sudbury Hill]] || [[Piccadilly line|Piccadilly]]{{ref label|h|h|4}} || [[London Borough of Ealing|Ealing]]<br>[[London Borough of Harrow|Harrow]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1903|June|28}}}} || {{sort|z|}} ||  || {{ctr|{{nts|2.01}}}}
+|-
+!scope=row|[[Sudbury Town tube station|Sudbury Town]]
+|[[File:Sudbury Town tube station.jpg|100px|alt=A red-bricked building with a rectangular, grey sign reading "SUDBURY TOWN STATION" in black letters all under a blue sky|Sudbury Town]] || [[Piccadilly line|Piccadilly]]{{ref label|h|h|5}} || [[London Borough of Brent|Brent]]<br>[[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1903|June|28}}}} || {{sort|z|}} ||  || {{ctr|{{nts|2.06}}}}
+|-
+!scope=row|[[Swiss Cottage tube station|Swiss Cottage]]
+|align=center|[[File:Swiss Cottage stn east entrance.JPG|80px|alt=Two black-bricked pillars on a sidewalk with a rectangular, dark blue sign connecting them reading "SWISS COTTAGE STATION" in white letters|Swiss Cottage]] || [[Jubilee line|Jubilee]]{{ref label|g|g|2}} || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1939|November|20}}}} || {{sort|z|}} ||  || {{ctr|{{nts|6.91}}}}
+|-
+!scope=row|[[Temple tube station|Temple]]
+|[[File:Templetube.jpg|100px|alt=A grey building with a rectangular, white sign on a rounded corner reading "TEMPLE STATION" in black letters all under a blue sky|Temple]] || [[District line|District]]{{ref label|i|i|9}}<br>[[Circle line (London Underground)|Circle]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1870|May|30}}}} || {{sort|z|}} ||  || {{ctr|{{nts|9.99}}}}
+|-
+!scope=row|[[Theydon Bois tube station|Theydon Bois]]
+|[[File:Theydon Bois stn building.JPG|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "THEYDON BOIS STATION" in white letters all under a blue sky with white butts|Theydon Bois]] || [[Central line|Central]] || [[Epping Forest (district)|Epping Forest]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1949|September|25}}}} || {{ctr|{{dts|format=dmy|1865|April|24}}}} || Theydon: 1865 || {{ctr|{{nts|0.74}}}}
+|-
+!scope=row|[[Tooting Bec tube station|Tooting Bec]]
+|[[File:Tooting Bec tube entrance.jpg|100px|alt=A grey-bricked building with a rectangular, dark blue sign reading "TOOTING BEC STATION" in white letters all under a blue sky with white butts|Tooting Bec]] || [[Northern line|Northern]] || [[London Borough of Wandsworth|Wandsworth]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1926|September|13}}}} || {{sort|z|}} || Trinity Road (Tooting Bec): 1926–50 || {{ctr|{{nts|6.56}}}}
+|-
+!scope=row|[[Tooting Broadway tube station|Tooting Broadway]]
+|[[File:Tooting Broadway stn building.JPG|100px|alt=A grey-bricked building with a rectangular, dark blue sign reading "TOOTING BROADWAY STATION" in white letters all under a grey sky|Tooting Broadway]] || [[Northern line|Northern]] || [[London Borough of Wandsworth|Wandsworth]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1926|September|13}}}} || {{sort|z|}} ||  || {{ctr|{{nts|13.04}}}}
+|-
+!scope=row|[[Tottenham Court Road tube station|Tottenham Court Road]]
+|[[File:Tottenhamstation londonunderground.jpg|100px|alt=The interior of a building with a rounded, white ceiling and rounded walls, the left one black and the right one green, on either side of a man|Tottenham Court Road]] || [[Central line|Central]]<br>[[Northern line|Northern]] || [[City of Westminster]]  ||  align=center | [[Travelcard Zone 1|1]] || {{ctr|{{dts|format=dmy|1900|July|30}}}} || {{sort|z|}} || Oxford Street <small>(Northern line)</small>: 1907–08 || {{ctr|{{nts|23.99}}}}
+|-
+!scope=row|[[Tottenham Hale station|Tottenham Hale]]
+|[[File:Tottenham Hale station 070414.JPG|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "TOTTENHAM HALE" in white letters all under a clear, light blue sky|Tottenham Hale]] || [[Victoria line|Victoria]] || [[London Borough of Haringey|Haringey]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1968|September|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|8.86}}}}
+|-
+!scope=row|[[Totteridge and Whetstone tube station|Totteridge & Whetstone]]
+|[[File:Totteridge & Whetstone stn building.JPG|100px|alt=A beige-bricked building with a rectangular, dark blue sign reading "TOTTERIDGE & WHETSTONE STATION" in white letters all under a blue sky|Totteridge & Whetstone]] || [[Northern line|Northern]] || [[London Borough of Barnet|Barnet]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1940|April|14}}}} || {{ctr|{{dts|format=dmy|1872|April|1}}}} || Totteridge: 1872–74 || {{ctr|{{nts|1.98}}}}
+|-
+!scope=row|[[Tower Hill tube station|Tower Hill]]
+|[[File:Tower hill entrance.jpg|100px|alt=A grey, many-windowed castle with flags flying from its turrets in the background, several people walking in the foreground, and a bright sky above|Tower Hill]] || [[District line|District]]{{ref label|i|i|10}}<br>[[Circle line (London Underground)|Circle]] || [[London Borough of Tower Hamlets|Tower Hamlets]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1882|September|25}}<br /><small>resited 12 October 1884<br />resited 5 February 1967</small>}} || {{sort|z|}} || Tower of London: 1882–84<br />Mark Lane: 1884–1946 || {{ctr|{{nts|21.58}}}}
+|-
+!scope=row|[[Tufnell Park tube station|Tufnell Park]]
+|[[File:Tufnell Park stn building.JPG|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "TUFNELL PARK STATION" in white letters all under a blue sky with white butts|Tufnell Park]] || [[Northern line|Northern]] || [[London Borough of Islington|Islington]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1907|June|22}}}} || {{sort|z|}} ||  || {{ctr|{{nts|3.55}}}}
+|-
+!scope=row|[[Turnham Green tube station|Turnham Green]]
+|[[File:Turnham Green.jpg|100px|alt=A grey railway station with railway tracks on either side of it, four blue lampposts protruding from the middle of it, and a blue sky above|Turnham Green]] || [[District line|District]]<br>[[Piccadilly line|Piccadilly]] || [[London Borough of Hounslow|Hounslow]]  ||  align=center | [[Travelcard Zone 2|2]] & [[Travelcard Zone 3|3]] || {{ctr|{{dts|format=dmy|1877|June|1}}}} || {{ctr|{{dts|format=dmy|1869|January|1}}}} ||  || {{ctr|{{nts|5.83}}}}
+|-
+!scope=row|[[Turnpike Lane tube station|Turnpike Lane]]
+|[[File:Turnpike Lane stn building.JPG|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "TURNPIKE LANE STATION" in white letters all under a blue sky|Turnpike Lane]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Haringey|Haringey]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1932|September|19}}}} || {{sort|z|}} || Ducketts Green/Harringay: <small>Proposed before opening</small> || {{ctr|{{nts|9.80}}}}
+|-
+!scope=row|[[Upminster station|Upminster]]
+|[[File:Upminster station main entrance.JPG|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "Upminster" in white letters and a pink sign reading "c2c"|Upminster]] || [[District line|District]] || [[London Borough of Havering|Havering]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1902|June|2}}}} || {{ctr|{{dts|format=dmy|1885|May|1}}}} ||  || {{ctr|{{nts|4.56}}}}
+|-
+!scope=row|[[Upminster Bridge tube station|Upminster Bridge]]
+| [[File:Upminster Bridge tube station 1.jpg|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "UPMINSTER BRIDGE STATION" in white letters all under a blue sky|Upminster Bridge]]|| [[District line|District]] || [[London Borough of Havering|Havering]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1934|December|17}}}} || {{sort|z|}} ||  || {{ctr|{{nts|0.99}}}}
+|-
+!scope=row|[[Upney tube station|Upney]]
+|[[File:Upney station building.JPG|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "UPNEY STATION" in white letters all under a light blue sky with white butts|Upney]] || [[District line|District]] || [[London Borough of Barking and Dagenham|Barking and Dagenham]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1932|September|12}}}} || {{sort|z|}} ||  || {{ctr|{{nts|2.11}}}}
+|-
+!scope=row|[[Upton Park tube station|Upton Park]]
+|[[File:Upton Park tube station 1.jpg|100px|alt=A red-and-brown bricked building with a rectangular, dark blue sign reading "UPTON PARK STATION" in white letters all under a light blue sky|Upton Park]] || [[District line|District]]{{ref label|j|j|8}}<br>[[Hammersmith & City line|Hammersmith & City]] || [[London Borough of Newham|Newham]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1902|June|2}}}} || {{ctr|{{dts|format=dmy|1877}}}} ||  || {{ctr|{{nts|11.01}}}}
+|-
+!scope=row|[[Uxbridge tube station|Uxbridge]]
+|[[File:Uxbridge tube station.jpg|100px|alt=A brown-bricked building with a rectangular, light blue sign reading "METROPOLITAN & PICCADILLY LINES" in white letters all under a blue sky|Uxbridge]] || [[Metropolitan line|Metropolitan]]<br>[[Piccadilly line|Piccadilly]]{{ref label|k|k|7}} || [[London Borough of Hillingdon|Hillingdon]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1904|July|4}}<br><small>resited 4 December 1938</small>}} || {{sort|z|}} ||  || {{ctr|{{nts|6.91}}}}
+|-
+!scope=row|[[Vauxhall station|Vauxhall]]
+|[[File:Vauxhall mainline stn north building.JPG|100px|alt=A white building with a rectangular, white sign reading "Vauxhall" in black letters and four bicycles in front all under a grey sky|Vauxhall]] || [[Victoria line|Victoria]] || [[London Borough of Lambeth|Lambeth]] || {{ctr|[[Travelcard Zone 1|1]] & [[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1971|July|23}}}} || {{sort|z|}} ||  || {{ctr|{{nts|20.87}}}}
+|-
+!scope=row|[[London Victoria station#London Underground|Victoria]]
+|[[File:London Victoria station -14Oct2008.jpg|100px|alt=A grey building with three rectangular, white signs reading "London Victoria Station" in black letters all under a clear, white sky|Victoria]] || [[District line|District]]{{ref label|i|i|11}}<br>[[Circle line (London Underground)|Circle]]<br>[[Victoria line|Victoria]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1868|December|24}}}} || {{sort|z|}} ||  || {{ctr|{{nts|82.25}}}}
+|-
+!scope=row|[[Walthamstow Central station|Walthamstow Central]]
+|[[File:Walthamstow Central stn Victoria line look north.JPG|100px|alt=The interior of a building with a rounded ceiling, rounded walls, and a man wearing an orange jacket walking towards the back wall|Walthamstow Central]] || [[Victoria line|Victoria]] || [[London Borough of Waltham Forest|Waltham Forest]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1968|September|1}}}} || {{sort|z|}} ||  || {{ctr|{{nts|14.32}}}}
+|-
+!scope=row|[[Wanstead tube station|Wanstead]]
+|[[File:Wanstead station building southwest.JPG|100px|alt=A grey building with a sign on it depicting a blue rectangle superimposed on a white circle superimposed on a red circle|Wanstead]] || [[Central line|Central]] || [[London Borough of Redbridge|Redbridge]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1947|December|14}}}} || {{sort|z|}} ||  || {{ctr|{{nts|2.57}}}}
+|-
+!scope=row|[[Warren Street tube station|Warren Street]]
+|[[File:Warren Street stn entrance.JPG|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "WARREN STREET STATION" in white letters and people in front|Warren Street]] || [[Northern line|Northern]]<br>[[Victoria line|Victoria]] || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1907|June|22}}}} || {{sort|z|}} || Euston Road: 1907–08 || {{ctr|{{nts|15.69}}}}
+|-
+!scope=row|[[Warwick Avenue tube station|Warwick Avenue]]
+| [[File:WarwickAvenue.jpg|100px|alt=A green sign with the words "WARWICK AVENUE STATION" written in white letters on a dark blue rectangle all under a light blue sky with white butts|Warwick Avenue]] || [[Bakerloo line|Bakerloo]] || [[City of Westminster]]  ||  align=center | [[Travelcard Zone 2|2]] || {{ctr|{{dts|format=dmy|1915|January|31}}}} || {{sort|z|}} || Warrington Crescent: <small>Proposed before opening</small> || {{ctr|{{nts|4.30}}}}
+|-
+!scope=row|[[Waterloo tube station|Waterloo]]
+| [[File:Waterloo tube stn Northern southbound look north.JPG|100px|alt=The interior of a building with a rounded, white ceiling, rounded, white-bricked walls, and a crowd of people walking towards the back wall|Waterloo]]|| [[Waterloo & City line|Waterloo & City]]<br>[[Bakerloo line|Bakerloo]]<br>[[Northern line|Northern]]<br>[[Jubilee line|Jubilee]] || [[London Borough of Lambeth|Lambeth]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1906|March|10}}}} || {{sort|z|}} ||  || {{ctr|{{nts|84.12}}}}
+|-
+!scope=row|[[Watford tube station|Watford]]
+| [[File:Watford Tube Station.JPG|100px|alt=A brown-bricked building with a red-tiled roof and a rectangular, dark blue sign reading "WATFORD STATION" in white letters all under a white sky|Watford]]|| [[Metropolitan line|Metropolitan]] || [[Watford]] || {{ctr|[[Travelcard Zones 7-9|7]]}} || {{ctr|{{dts|format=dmy|1925|November|2}}}} || {{sort|z|}} ||  || {{ctr|{{nts|1.57}}}}
+|-
+!scope=row|[[Wembley Central station|Wembley Central]]
+|[[File:Wembley Central station 8.jpg|100px|alt=Several people walking inside a building with a black ceiling and white walls bordered in black and displaying several advertisements|Wembley Central]] || [[Bakerloo line|Bakerloo]] || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1917|April|16}}}} || {{ctr|{{dts|format=dmy|1842}}}} || Sudbury: 1842–82<br />Sudbury & Wembley: 1882–1910<br />Wembley for Sudbury: 1910–48 || {{ctr|{{nts|4.56}}}}
+|-
+!scope=row|[[Wembley Park tube station|Wembley Park]]
+|[[File:Wembley Park tube station extension.jpg|100px|alt=A terracotta-coloured building with a rectangular, light blue sign reading "WEMBLEY PARK STATION" in white letters all under a butty sky|Wembley Park]] || [[Metropolitan line|Metropolitan]]<br>[[Jubilee line|Jubilee]]{{ref label|f|f|2}}  || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1894|May|12}}}} || {{sort|z|}} ||  || {{ctr|{{nts|9.66}}}}
+|-
+!scope=row|[[West Acton tube station|West Acton]]
+|[[File:WestActon1.jpg|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "WEST ACTON STATION" in white letters all under a blue sky with white butts|West Acton]] || [[Central line|Central]] || [[London Borough of Ealing|Ealing]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1923|November|5}}}} || {{sort|z|}} ||  || {{ctr|{{nts|1.62}}}}
+|-
+!scope=row|[[West Brompton station|West Brompton]]
+| [[File:WestBrompton1.jpg|100px|alt=A beige-bricked building with a rectangular, dark blue sign reading "WEST BROMPTON STATION" in white letters all under a light blue sky|West Brompton]]|| [[District line|District]] || [[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1869|April|12}}}} || {{sort|z|}} || Richmond Road: <small>Proposed before opening</small> || {{ctr|{{nts|4.25}}}}
+|-
+!scope=row|[[West Finchley tube station|West Finchley]]
+|[[File:West Finchley stn entrance.JPG|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "WEST FINCHLEY STATION" in white letters all under a light blue sky|West Finchley]] || [[Northern line|Northern]] || [[London Borough of Barnet|Barnet]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1940|April|14}}}} || {{ctr|{{dts|format=dmy|1933|March|1}}}} ||  || {{ctr|{{nts|1.37}}}}
+|-
+!scope=row|[[West Ham station|West Ham]]
+|[[File:West Ham stn entrance.JPG|100px|alt=A brown-bricked building with a large, grey sign reading "WEST HAM" in white letters and four people in front all under a light grey sky|West Ham]] || [[District line|District]]{{ref label|j|j|9}}<br>[[Hammersmith & City line|Hammersmith & City]]<br>[[Jubilee line|Jubilee]] || [[London Borough of Newham|Newham]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1902|June|2}}}} || {{ctr|{{dts|format=dmy|1901}}}} || West Ham: 1901–1924<br />West Ham (Manor Road): 1924–69 || {{ctr|{{nts|3.42}}}}
+|-
+!scope=row|[[West Hampstead tube station|West Hampstead]]
+|align=center|[[File:West Hampstead Tube.jpg|80px|alt=A brown-bricked building with a rectangular, dark blue sign reading "WEST HAMPSTEAD STATION" in white letters all under a blue sky|West Hampstead]] || [[Jubilee line|Jubilee]]{{ref label|e|e|8}} || [[London Borough of Camden|Camden]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1879|June|30}}}} || {{sort|z|}} ||  || {{ctr|{{nts|8.23}}}}
+|-
+!scope=row|[[West Harrow tube station|West Harrow]]
+|[[File:West Harrow tube station 2.jpg|100px|alt=A brown-bricked building with a rectangular, light blue sign reading "WEST HARROW STATION" in white letters all under a light blue sky|West Harrow]] || [[Metropolitan line|Metropolitan]] || [[London Borough of Harrow|Harrow]] || {{ctr|[[Travelcard Zone 5|5]]}} || {{ctr|{{dts|format=dmy|1913|November|17}}}} || {{sort|z|}} ||  || {{ctr|{{nts|1.08}}}}
+|-
+!scope=row|[[West Kensington tube station|West Kensington]]
+|[[File:WestKensington.jpg|100px|alt=A white-bricked building with a rectangular, dark blue sign reading "WEST KENSINGTON STATION" in white letters all under a light blue sky|West Kensington]] || [[District line|District]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1874|September|9}}}} || {{sort|z|}} || North End (Fulham): 1874–77 || {{ctr|{{nts|4.64}}}}
+|-
+!scope=row|[[West Ruislip station|West Ruislip]]
+|[[File:West Ruislip stn building.JPG|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "WEST RUISLIP STATION" in white letters all under a light blue sky|West Ruislip]] || [[Central line|Central]] || [[London Borough of Hillingdon|Hillingdon]] || {{ctr|[[Travelcard Zone 6|6]]}} || {{ctr|{{dts|format=dmy|1948|November|21}}}} || {{ctr|{{dts|format=dmy|1906|April|2}}}} || Ruislip & Ickenham: 1906–47<br />West Ruislip (for Ickenham): 1947– <small>suffix gradually dropped</small> || {{ctr|{{nts|1.64}}}}
+|-
+!scope=row|[[Westbourne Park tube station|Westbourne Park]]
+|[[File:Westbourne Park tube station 1.jpg|100px|alt=A dirty, white-bricked building with a rectangular, dark blue sign reading "WESTBOURNE PARK STATION" in white letters all under a blue sky|Westbourne Park]] || [[Hammersmith & City line|Hammersmith & City]]{{ref label|m|m|7}}<br>[[Circle line (London Underground)|Circle]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1866|February|1}}<br><small>resited 1 November 1871</small>}} || {{sort|z|}} ||  || {{ctr|{{nts|3.03}}}}
+|-
+!scope=row|[[Westminster tube station|Westminster]]
+|[[File:Westminster station entrance Portcullis House.JPG|100px|alt=A large crowd of people walking on a grey sidewalk next to a black road where two vehicles are driving from the left to the right|Westminster]] || [[District line|District]]{{ref label|i|i|12}}<br>[[Circle line (London Underground)|Circle]]<br>[[Jubilee line|Jubilee]] || [[City of Westminster]] || {{ctr|[[Travelcard Zone 1|1]]}} || {{ctr|{{dts|format=dmy|1868|December|24}}}} || {{sort|z|}} || Westminster Bridge: 1868–1907 || {{ctr|{{nts|20.78}}}}
+|-
+!scope=row|[[White City tube station|White City]]
+|[[File:White city tube station.jpg|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "WHITE CITY STATION" in white letters all under a light blue sky|White City]] || [[Central line|Central]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1947|November|23}}}} || {{sort|z|}} ||  || {{ctr|{{nts|7.74}}}}
+|-
+!scope=row|[[Whitechapel station|Whitechapel]]
+|[[File:Whitechapel station.jpg|100px|alt=A beige-bricked building with a rectangular, dark blue sign reading "WHITECHAPEL STATION" in white letters all under a white sky|Whitechapel]] || [[District line|District]]{{ref label|j|j|10}}<br>[[Hammersmith & City line|Hammersmith & City]] || [[London Borough of Tower Hamlets|Tower Hamlets]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|1884|October|1}}}} || {{ctr|{{dts|format=dmy|1876|April|10}}}} || Whitechapel (Mile End): 1884–1901 || {{ctr|{{nts|12.62}}}}
+|-
+!scope=row|[[Willesden Green tube station|Willesden Green]]
+|[[File:Willesden Green stn building.JPG|100px|alt=A white-bricked building with a rectangular, dark blue sign reading "WILLESDEN GREEN STATION" in white letters all under a light blue sky|Willesden Green]] || [[Jubilee line|Jubilee]]{{ref label|e|e|9}} || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 2|2]] & [[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1879|November|24}}}} || {{sort|z|}} ||  || {{ctr|{{nts|7.81}}}}
+|-
+!scope=row|[[Willesden Junction station|Willesden Junction]]
+|[[File:Willesden Junction Overground 2008.jpg|100px|alt=A white-panelled building with a rectangular, orange sign reading "Willesdon Junction" in white letters all under a light blue sky|Willesden Junction]] || [[Bakerloo line|Bakerloo]] || [[London Borough of Brent|Brent]] || {{ctr|[[Travelcard Zone 2|2]] & [[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1915|May|10}}}} || {{sort|z|}} ||  || {{ctr|{{nts|3.92}}}}
+|-
+!scope=row|[[Wimbledon station|Wimbledon]]
+|[[File:Wimbledon station main building.JPG|100px|alt=A white-bricked building with a sign reading "Wimbledon" in red letters and people walking in front all under a light blue sky with white butts|Wimbledon]] || [[District line|District]] || [[London Borough of Merton|Merton]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1889|June|3}}}} || {{sort|z|}} ||  || {{ctr|{{nts|11.75}}}}
+|-
+!scope=row|[[Wimbledon Park tube station|Wimbledon Park]]
+|[[File:Wimbledon Park Underground Station.jpg|100px|alt=A brown-and-red bricked building with a rectangular, dark blue sign reading "WIMBLEDON PARK STATION" in white letters all under a blue sky|Wimbledon Park]] || [[District line|District]] || [[London Borough of Merton|Merton]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1889|June|3}}}} || {{sort|z|}} ||  || {{ctr|{{nts|2.00}}}}
+|-
+!scope=row|[[Wood Green tube station|Wood Green]]
+|[[File:Wood Green tube station 070414.JPG|100px|alt=A brown-bricked building with a rectangular, dark blue sign reading "WOOD GREEN STATION" in white letters all under a light blue sky|Wood Green]] || [[Piccadilly line|Piccadilly]] || [[London Borough of Haringey|Haringey]] || {{ctr|[[Travelcard Zone 3|3]]}} || {{ctr|{{dts|format=dmy|1932|September|19}}}} || {{sort|z|}} || Lordship Lane: <small>Proposed before opening</small> || {{ctr|{{nts|11.35}}}}
+|-
+!scope=row|[[Wood Lane tube station|Wood Lane]]
+|[[File:Wood Lane stn entrance.JPG|100px|alt=A grey-panelled building with a rectangular, dark blue sign reading "WOOD LANE STATION" in white letters all under a butty sky|Wood Lane]] || [[Hammersmith and City line|Hammersmith and City]]<br>[[Circle line (London Underground)|Circle]] || [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] || {{ctr|[[Travelcard Zone 2|2]]}} || {{ctr|{{dts|format=dmy|2008|October|12}}}} || {{sort|z|}} ||  || {{ctr|{{nts|3.44}}}}
+|-
+!scope=row|[[Woodford tube station|Woodford]]
+|[[File:Woodford Station.jpg|100px|alt=A red-bricked building with a rectangular, dark blue sign reading "WOODFORD STATION" in white letters all under a clear, white sky|Woodford]] || [[Central line|Central]] || [[London Borough of Redbridge|Redbridge]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1947|December|14}}}} || {{ctr|{{dts|format=dmy|1856|August|22}}}} ||  || {{ctr|{{nts|4.89}}}}
+|-
+!scope=row|[[Woodside Park tube station|Woodside Park]]
+|[[File:Woodside Park stn building.JPG|100px|alt=A beige-bricked building with a rectangular, dark blue sign reading "WOODSIDE PARK STATION" in white letters all under a blue sky|Woodside Park]] || [[Northern line|Northern]] || [[London Borough of Barnet|Barnet]] || {{ctr|[[Travelcard Zone 4|4]]}} || {{ctr|{{dts|format=dmy|1940|April|12}}}} || {{ctr|{{dts|format=dmy|1872|April|1}}}} || Torrington Park, Woodside: 1872–82<br />Woodside Park for North Finchley: 1882–1931<br />Woodside Park and North Finchley for Woodside Garden Suburb: 1931–40 || {{ctr|{{nts|2.69}}}}
+|}
