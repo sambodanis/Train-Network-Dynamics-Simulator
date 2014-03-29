@@ -1,5 +1,6 @@
 import netClasses as nc
 import os
+import re
 
 
 def visualise(stations, adjacencies):
@@ -34,7 +35,7 @@ def adj_to_ug(adjacencies):
         # stations[station].add_connection(connect) # Complex connections added
         # later
 
-        if line not in stations[station]._lines:
+        if line not in stations[station].lines:
             stations[station].add_line(line)
 
         if line not in lines:
@@ -71,31 +72,84 @@ def read_station_distance():
 
 def merge_ug_connections(ug, conns):
     for conn in conns:
-        if conn._start in ug.stations():
-            ug[conn._start]._connections = conn
+        if conn.start in ug.stations():
+            ug[conn.start].connections = conn
         else:
-            print conn._start, 'not found'
+            print conn.start, 'not found'
 
 
 def ug_from_dist_file(conn):
     stations = {}
     lines = {}
     for c in conn:
-        if c._start not in stations:
-            stations[c._start] = nc.Station(c._start)
-        stations[c._start].add_connection(c)
+        if c.start not in stations:
+            stations[c.start] = nc.Station(c.start)
+        stations[c.start].add_connection(c)
 
-        if c._line not in lines:
-            lines[c._line] = nc.Line(c._line)
-        lines[c._line].add_station(stations[c._start])
-        lines[c._line].directions.add(c._direction)
-        c._line = lines[c._line]
-        stations[c._start].add_line(c._line)
-        c._start = stations[c._start]
+        if c.line not in lines:
+            lines[c.line] = nc.Line(c.line)
+        lines[c.line].add_station(stations[c.start])
+        lines[c.line].directions.add(c.direction)
+        c.line = lines[c.line]
+        stations[c.start].add_line(c.line)
+        c.start = stations[c.start]
     for c in conn:
-        c._end = stations[c._end]
+        c.end = stations[c.end]
     ug = nc.Underground(stations=stations, lines=lines)
     return ug
+
+
+def calc_capacity(station, year_s_c):
+    scale = 1000000  # millions
+    # max_capacity = 3.5
+    year_s_c *= scale
+    daily_capacity = year_s_c / 365
+    hours_open = 24 - 5
+    average_time_between_trips = 1 / 60.0 * 3
+    trips_per_day = hours_open / average_time_between_trips
+    # daily_capacity = year_s_c / max_capacity
+    momentary_capcity = daily_capacity / trips_per_day
+    return momentary_capcity
+
+
+def add_wiki_capacities(ug):
+    f = open('stationListWikipedia.txt', 'rb').read().split('|-')
+    stations = map(lambda x: '_'.join(x.split(' || ')[0].
+                   split('\n')[1].rstrip(']').
+                   split('|')[-1].split(' ')).lower(), f)
+    stations = map(lambda x: x if x.find(
+        '_(') == -1 else x[:x.find('_(')], stations)
+    stations = map(lambda x: ''.join([y for y in x if y != '\'']), stations)
+    stations = map(
+        lambda x: ''.join([y if y != '-' else '_' for y in x]), stations)
+    stations = map(
+        lambda x: ''.join([y if y != '.' else '' for y in x]), stations)
+
+    subs = {'heathrow_terminals_1,_2,_3': 'heathrow_123',
+            'heathrow_terminal_4': 'heathrow_terminal_four',
+            'heathrow_terminal_5': 'heathrow_terminal_five',
+            'kings_cross_st._pancras': 'kings_cross_st_pancras'}
+    stations = [s if s not in subs else subs[s] for s in stations]
+    # for s in stations:
+    #     if s in subs:
+    #         s = subs[s]
+    #         print s
+    capacities = map(lambda x: float(re.findall('[0-9]*\.[0-9]+', x)[0]), f)
+    total_capacity = sum(capacities)
+    s_and_c = zip(stations, capacities)
+
+    for k in s_and_c:
+        s, c = k
+        if s in ug.stations:
+            ug[s].capacity = calc_capacity(ug[s], c)
+            # print s, ug[s].capacity
+
+    # If station has no capacity, then set it to average neighbour capacity
+    for s in ug.stations:
+        station = ug[s]
+        if station.capacity == 0:
+            a = [x.end.capacity for x in station.connections]
+            station.capacity = sum(a) / len(a)
 
 
 def load_underground():
@@ -105,12 +159,15 @@ def load_underground():
     # ug = merge_ug_connections(ug, connections)
     ug = ug_from_dist_file(connections)
 
+    add_wiki_capacities(ug)
+
     return ug
 
 
 def main():
     ug = load_underground()
-    print[x for x in ug['belsize_park']._connections], [x for x in ug['belsize_park']._lines]
+    # print[x for x in ug['belsize_park'].connections], [x for x in
+    # ug['belsize_park'].lines]
 
     # uground = nc.Underground(net)
 

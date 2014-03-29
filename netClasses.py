@@ -3,11 +3,13 @@ from util import *
 from heapq import *
 import random
 
+
 class Underground(object):
+
     """docstring for Underground"""
-    
+
     def __init__(self, lines, stations):
-        self._lines = lines
+        self.lines = lines
         # self.stations = stations
         self.stations = stations
         self.trains = set()
@@ -19,18 +21,17 @@ class Underground(object):
     #     self.trains.add(train)
 
     def get_connection(self, station, line, direction):
-        possible_conns = station._connections
-        conns = filter(lambda x: x._line == line and 
-                      x._direction == direction,
-                      possible_conns)
+        possible_conns = station.connections
+        conns = filter(lambda x: x.line == line and
+                       x.direction == direction,
+                       possible_conns)
         if len(conns) > 0:
             return random.choice(conns)
         else:
             return None
 
     def lines(self):
-        return self._lines.keys()
-
+        return self.lines.keys()
 
     def path(self, start, end):
         visited = set()
@@ -51,20 +52,22 @@ class Underground(object):
                 route.append(curr)
                 route.reverse()
                 return route
-            for conn in self.stations[curr]._connections:
+            for conn in self.stations[curr.name].connections:
                 print conn,
-                alt = dist + conn._min_time
-                print alt
-                if conn._end not in prev or alt < prev[conn._end][1]:
-                    new = (conn._end, alt)
+                alt = dist + conn.min_time
+                # if conn.line.name != curr.line
+                # print alt
+                if conn.end not in prev or alt < prev[conn.end][1]:
+                    new = (conn.end, alt)
                     heappush(h, new)
-                    prev[conn._end] = (curr, dist)
+                    prev[conn.end] = (curr, dist)
         return None
 
 __directions = {'northbound': 'southbound',
-              'eastbound': 'westbound',
-              'outer': 'inner'}
-        
+                'eastbound': 'westbound',
+                'outer': 'inner'}
+
+
 def reverse_direction(direction):
     res = None
     for k in __directions:
@@ -76,83 +79,113 @@ def reverse_direction(direction):
             break
     return res
 
+
 class Train(object):
+
     """docstring for Train"""
+
     def __init__(self, _id, start, line, direction, percent_done=0.0):
         self.id = _id
         self.location = start
         self.line = line
-        self.direction = direction   
+        self.direction = direction
         self.percent_done = percent_done
 
     def reverse_direction(self):
         self.direction = reverse_direction(self.direction)
 
     def __str__(self):
-        return ', '.join([str(self.id), self.location._name, self.line._name, self.direction, str(self.percent_done)])
+        return ', '.join([str(self.id), self.location.name, self.line.name, self.direction, str(self.percent_done)])
 
     def __repr__(self):
         return self.__str__()
+
+
+class Person(object):
+
+    """docstring for Person"""
+
+    def __init__(self, start, end):
+        self.start = start
+
 
 class Connection(object):
+
     """docstring for Connection"""
+
     def __init__(self, line, start, end, direction, dist, min_time, am_peak, inter_peak):
-        self._start = start
-        self._end = end
-        self._line = line
-        self._direction = direction
-        self._dist = float(dist)
-        self._min_time = float(min_time)
-        self._am_peak = float(am_peak)
-        self._inter_peak = float(inter_peak)
+        self.start = start
+        self.end = end
+        self.line = line
+        self.direction = direction
+        self.dist = float(dist)
+        self.min_time = float(min_time)
+        self.am_peak = float(am_peak)
+        self.inter_peak = float(inter_peak)
 
     def __str__(self):
-        return ' '.join([self._start._name, '->', self._end._name, self._line._name, self._direction])
+        return ' '.join([self.start.name, '->', self.end.name, self.line.name, self.direction])
 
     def __repr__(self):
         return self.__str__()
-        
-        
+
+
 class Station(object):
+
     """docstring for Station"""
+
     def __init__(self, name):
-        self._name = name
-        self._lines = set()
-        self._connections = set()
+        self.name = name
+        self.lines = set()
+        self.connections = set()
+        self.visitors = 0
+        self._capacity = 0
+        self.platform_capacity = 0
+
+    @property
+    def capacity(self):
+        return self._capacity
+
+    @capacity.setter
+    def capacity(self, value):
+        self._capacity = value
+        self.platform_capacity = value / (2 * len(self.connections))
 
     def __str__(self):
-        return self._name
+        return self.name
 
     def __repr__(self):
         return self.__str__()
 
     def pprint(self):
-        print ', '.join([self._name] + 
-            ['LINES'] + sorted(list(self._lines)) + 
-            ['CONNECTIONS'] + sorted(list(self._connections)))
+        print ', '.join([self.name] +
+                        ['LINES'] + map(str, sorted(list(self.lines))) +
+                        ['CONNECTIONS'] + map(str, sorted(list(self.connections))))
 
     def add_connection(self, conn):
-        self._connections.add(conn)
+        self.connections.add(conn)
 
     def add_line(self, line):
-        self._lines.add(line)
+        self.lines.add(line)
+
 
 class Line(object):
+
     """docstring for Line"""
+
     def __init__(self, name):
-        self._name = name
+        self.name = name
         self.directions = set()
-        self._stations = set()
+        self.stations = set()
 
     def __str__(self):
-        return self._name
+        return self.name
 
     def __repr__(self):
         return self.__str__()
 
     def pprint(self):
-        print ', '.join(sorted(list(self._stations)))
+        print ', '.join(sorted(list(self.stations)))
 
     def add_station(self, station):
-        self._stations.add(station)
-        
+        self.stations.add(station)

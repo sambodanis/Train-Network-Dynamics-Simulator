@@ -1,13 +1,16 @@
 class Node:
+
     def __init__(self, data, next):
         self.data = data
         self.next = next
 
+
 class Stack:
+
     def __init__(self):
         self.top = None
         self.count = 0
-    
+
     def push(self, item):
         if self.top == None:
             self.top = Node(item, None)
@@ -36,7 +39,9 @@ class Stack:
     def isEmpty(self):
         return self.count == 0
 
+
 class Queue:
+
     def __init__(self):
         self.first = None
         self.last = None
@@ -72,6 +77,7 @@ class Queue:
 
 
 class MinStack:
+
     def __init__(self):
         self.mainStack = Stack()
         self.minStack = Stack()
@@ -102,7 +108,9 @@ class MinStack:
     def isEmpty(self):
         return self.mainStack.isEmpty()
 
+
 class Tree:
+
     def __init__(self, value):
         self.data = value
         self.left = None
@@ -119,7 +127,7 @@ class Tree:
                 self.right = Tree(value)
             else:
                 self.right.add(value)
-    
+
     def preorderPrint(self):
         print self.data
         if self.left != None:
