@@ -77,6 +77,13 @@ class Person(object):
 
     def __init__(self, start, end):
         self.start = start
+        self.end = end
+
+    def __str__(self):
+        return self.start.name + ' -> ' + self.end.name
+
+    def __repr__(self):
+        return self.__str__()
 
 
 class Connection(object):

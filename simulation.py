@@ -61,13 +61,16 @@ def path(ug, start, end):
         """docstring for Path"""
 
         def __init__(self):
-            super(Path, self).__init__()
+            # super(Path, self).__init__()
             self.p = []
             self.cost = 0
 
         def add(self, np):
             self.cost += np.inter_peak
-            self.p += [np]
+            if self.p and np.line != self.p[-1].line:
+                self.cost += 2
+            # self.p += [np]
+            self.p.append(np)
 
         def pop_copy(self):
             res = Path()
@@ -86,7 +89,7 @@ def path(ug, start, end):
                     heappush(pq, (path.cost, path))
                     path = path.pop_copy()
         if len(pq) == 0:
-            return []
+            return [], float('inf')
         cost, path = heappop(pq)
         start = path.p[-1].end
     return path.p, path.cost
@@ -128,8 +131,92 @@ def plot_degree_distribution(ug):
     print freq
 
 
+def generate_people(ug, n):
+    people = []
+    for i in range(n):
+        start = ug.stations[random.choice(list(ug.stations.keys()))]
+        end = ug.stations[random.choice(list(ug.stations.keys()))]
+        people.append(Person(start, end))
+    return people
+
+
+def random_remove_connections(ug, n):
+    rems = set()
+    for i in range(n):
+        station = ug.stations[random.choice(list(ug.stations.keys()))]
+        if not station.connections:
+            continue
+        rconn = random.choice(list(station.connections))
+        rems.add(rconn)
+        for station in ug.stations:
+            s = ug[station]
+            if rconn in s.connections:
+                s.connections.remove(rconn)
+    return rems
+
+
+def replace_connections(ug, conns):
+    for conn in conns:
+        ug[conn.start.name].connections.add(conn)
+
+
+def average_travel_time(ug, people):
+    num_people = len(people)
+    total_cost = 0.0
+    for person in people:
+        p, cost = path(ug, person.start, person.end)
+        if p == []:
+            num_people -= 1
+            continue
+        total_cost += cost
+    return total_cost / num_people, num_people
+
+
+def visualise(ug):
+    import pygraphviz as pgv
+    G = pgv.AGraph(strict=False)
+    # G.node_attr['shape'] = 'Mcircle'
+    for station in ug.stations:
+        s = ug[station]
+        for conn in s.connections:
+            G.add_edge(
+                conn.start, conn.end, color=__color_for_line[conn.line.name])
+    G.draw('gviz.png', prog='neato')
+
+
+def random_failures_to_file(ug):
+    out = open('t.txt', 'w')
+    num_people = 1000
+    people = generate_people(ug, num_people)
+    # print average_travel_time(ug, people)
+
+    for i in xrange(100):
+        removed = random_remove_connections(ug, i)
+        ave_time, num_people = average_travel_time(ug, people)
+        print i, ave_time, num_people
+        out.write(str((ave_time, num_people)))
+        out.write('\n')
+        replace_connections(ug, removed)
+
+
+__color_for_line = {'northern': 'black',
+                    'central': 'red',
+                    'hammersmith_&_city': 'pink',
+                    'jubilee': 'dimgrey',
+                    'bakerloo': 'brown',
+                    'district': 'green',
+                    'metropolitan': 'purple',
+                    'east_london': 'orange',
+                    'piccadilly': 'blue',
+                    'victoria': 'royalblue',
+                    'circle': 'yellow',
+                    'waterloo_&_city': 'turquoise'}
+
+
 def main():
     ug = parsing.load_underground()
+    # for l in ug.lines:
+    #     print l
     # plot_degree_distribution(ug)
     # for line in ug.lines:
     #   print line
@@ -137,10 +224,25 @@ def main():
     # print len(ug.stations)
     # ug['belsize_park'].pprint()
 
-    p, cost = path(ug, ug['belsize_park'], ug['green_park'])
-    for k in p:
-        print k, k.min_time
-    print cost
+    # p, cost = path(ug, ug['belsize_park'], ug['green_park'])
+    # for k in p:
+    #     print k, k.min_time
+    # print cost
+
+# twopi, gvcolor, wc, ccomps, tred, sccmap, fdp, circo, neato, acyclic,
+# nop, gvpr, dot, sfdp.
+    out = open('t.txt', 'w')
+    num_people = 1000
+    people = generate_people(ug, num_people)
+    # print average_travel_time(ug, people)
+
+    for i in xrange(100):
+        removed = random_remove_connections(ug, i)
+        ave_time, num_people = average_travel_time(ug, people)
+        print i, ave_time, num_people
+        out.write(str((ave_time, num_people)))
+        out.write('\n')
+        replace_connections(ug, removed)
 
     # s = State(ug)
     # map(lambda x: s.add_train(x), generate_trains(ug, 525))
