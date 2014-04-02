@@ -185,20 +185,117 @@ def visualise(ug):
 
 
 def random_failures_to_file(ug):
-    out = open('t.txt', 'w')
-    num_people = 1000
-    people = generate_people(ug, num_people)
+    out = open('random_failures.txt', 'w')
     # print average_travel_time(ug, people)
+    for j in xrange(100):
+        num_people = 1000
+        people = generate_people(ug, num_people)
+
+        for i in xrange(100):
+            removed = random_remove_connections(ug, i)
+            ave_time, num_people = average_travel_time(ug, people)
+            print i, ave_time, num_people
+            out.write(str((ave_time, num_people)))
+            out.write('\n')
+            replace_connections(ug, removed)
+        out.write('\n')
+
+
+def degree_failures(ug):
+    out = open('fail_degree.txt', 'w')
+    for i in xrange(100):
+        num_people = 1000
+        people = generate_people(ug, num_people)
+
+        connections = [y for x in ug.stations for y in list(ug[x].connections)]
+        for c in connections:
+            c.start.connections.remove(c)
+            ave_time, num_people = average_travel_time(ug, people)
+            ldegree, rdegree = len(c.start.connections), len(c.end.connections)
+            out.write(str((ave_time, num_people, ldegree, rdegree)))
+            print str((ave_time, num_people, ldegree, rdegree))
+            out.write('\n')
+            c.start.connections.add(c)
+        out.write('\n')
+
+
+def line_fail(ug):
+    out = open('line_fail.txt', 'w')
+    for i in xrange(100):
+        num_people = 1000
+        people = generate_people(ug, num_people)
+        for line in ug.lines:
+            line_name = ug.lines[line].name
+            lconnections = [y for x in ug.stations for y in list(
+                ug[x].connections) if y.line.name == line_name]
+            # print map(lambda x: x.start.name, sorted(lconnections, key=lambda x: x.end.name))
+            # ll = lconnections[:len(lconnections) / 2]
+            # rr = lconnections[len(lconnections) / 2:]
+            # for half in [ll, rr]:
+            for c in lconnections:
+                if c in c.start.connections:
+                    c.start.connections.remove(c)
+                    print 'removed'
+            ave_time, num_people = average_travel_time(ug, people)
+            out.write(str((ave_time, num_people, line_name)))
+            print str((ave_time, num_people, line_name))
+            for c in lconnections:
+                c.start.connections.add(c)
+        out.write('\n')
+
+
+def terrorism(ug):
+    out = open('terrorism.txt', 'w')
+    connections = set(
+        [y for x in ug.stations for y in list(ug[x].connections)])
+    top_10_stations = map(lambda x: ug[x].name, sorted(
+        ug.stations, key=lambda x: len(ug[x].connections)))[-10:]
 
     for i in xrange(100):
-        removed = random_remove_connections(ug, i)
-        ave_time, num_people = average_travel_time(ug, people)
-        print i, ave_time, num_people
-        out.write(str((ave_time, num_people)))
-        out.write('\n')
-        replace_connections(ug, removed)
+
+        num_people = 1000
+        people = generate_people(ug, num_people)
+        for s in top_10_stations:
+            curr = ug[s]
+            removed = set()
+            for c in connections:
+                if c.end.name == curr.name:
+                    c.start.connections.remove(c)
+                    removed.add(c)
+            ave_time, num_people = average_travel_time(ug, people)
+            out.write(str((ave_time, num_people, curr.name)))
+            print str((ave_time, num_people, curr.name))
+            for c in removed:
+                c.start.connections.add(c)
+
+            for c in connections:
+                if c.end.name == curr.name:
+                    c.start.connections.remove(c)
+                    removed.add(c)
+
+            for s2 in top_10_stations:
+                if s != s2:
+                    curr2 = ug[s2]
+                    removed2 = set()
+                    for c in connections:
+                        if c.end.name == curr2.name:
+                            c.start.connections.remove(c)
+                            removed2.add(c)
+                    ave_time, num_people = average_travel_time(ug, people)
+                    out.write(
+                        str((ave_time, num_people, curr.name, curr2.name)))
+                    print str((ave_time, num_people, curr.name, curr2.name))
+                    for c in removed2:
+                        c.start.connections.add(c)
+
+            for c in removed:
+                c.start.connections.add(c)
+            out.write('\n')
 
 
+    # for i in xrange(100):
+    #     num_people = 1000
+    #     people = generate_people(ug, num_people)
 __color_for_line = {'northern': 'black',
                     'central': 'red',
                     'hammersmith_&_city': 'pink',
@@ -231,18 +328,23 @@ def main():
 
 # twopi, gvcolor, wc, ccomps, tred, sccmap, fdp, circo, neato, acyclic,
 # nop, gvpr, dot, sfdp.
-    out = open('t.txt', 'w')
-    num_people = 1000
-    people = generate_people(ug, num_people)
-    # print average_travel_time(ug, people)
 
-    for i in xrange(100):
-        removed = random_remove_connections(ug, i)
-        ave_time, num_people = average_travel_time(ug, people)
-        print i, ave_time, num_people
-        out.write(str((ave_time, num_people)))
-        out.write('\n')
-        replace_connections(ug, removed)
+    try:
+        random_failures_to_file(ug)
+    except Exception, e:
+        pass
+    try:
+        degree_failures(ug)
+    except Exception, e:
+        pass
+    try:
+        line_fail(ug)
+    except Exception, e:
+        pass
+    try:
+        terrorism(ug)
+    except Exception, e:
+        pass
 
     # s = State(ug)
     # map(lambda x: s.add_train(x), generate_trains(ug, 525))
