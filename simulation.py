@@ -185,9 +185,9 @@ def visualise(ug):
 
 
 def random_failures_to_file(ug):
-    out = open('random_failures.txt', 'w')
     # print average_travel_time(ug, people)
-    for j in xrange(100):
+    for j in xrange(40):
+        out = open('simulation_results/random_failures' + str(j) + '.txt', 'w')
         num_people = 1000
         people = generate_people(ug, num_people)
 
@@ -202,8 +202,9 @@ def random_failures_to_file(ug):
 
 
 def degree_failures(ug):
-    out = open('fail_degree.txt', 'w')
-    for i in xrange(100):
+    for i in xrange(40):
+        out = open('simulation_results/fail_degree' + str(i) + '.txt', 'w')
+
         num_people = 1000
         people = generate_people(ug, num_people)
 
@@ -220,8 +221,9 @@ def degree_failures(ug):
 
 
 def line_fail(ug):
-    out = open('line_fail.txt', 'w')
-    for i in xrange(100):
+    for i in xrange(40):
+        out = open('simulation_results/line_fail' + str(i) + '.txt', 'w')
+
         num_people = 1000
         people = generate_people(ug, num_people)
         for line in ug.lines:
@@ -238,6 +240,7 @@ def line_fail(ug):
                     print 'removed'
             ave_time, num_people = average_travel_time(ug, people)
             out.write(str((ave_time, num_people, line_name)))
+            out.write('\n')
             print str((ave_time, num_people, line_name))
             for c in lconnections:
                 c.start.connections.add(c)
@@ -245,13 +248,13 @@ def line_fail(ug):
 
 
 def terrorism(ug):
-    out = open('terrorism.txt', 'w')
     connections = set(
         [y for x in ug.stations for y in list(ug[x].connections)])
     top_10_stations = map(lambda x: ug[x].name, sorted(
         ug.stations, key=lambda x: len(ug[x].connections)))[-10:]
 
-    for i in xrange(100):
+    for i in xrange(40):
+        out = open('simulation_results/terrorism' + str(i) + '.txt', 'w')
 
         num_people = 1000
         people = generate_people(ug, num_people)
@@ -264,6 +267,7 @@ def terrorism(ug):
                     removed.add(c)
             ave_time, num_people = average_travel_time(ug, people)
             out.write(str((ave_time, num_people, curr.name)))
+            out.write('\n')
             print str((ave_time, num_people, curr.name))
             for c in removed:
                 c.start.connections.add(c)
@@ -284,6 +288,7 @@ def terrorism(ug):
                     ave_time, num_people = average_travel_time(ug, people)
                     out.write(
                         str((ave_time, num_people, curr.name, curr2.name)))
+                    out.write('\n')
                     print str((ave_time, num_people, curr.name, curr2.name))
                     for c in removed2:
                         c.start.connections.add(c)
