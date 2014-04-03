@@ -202,7 +202,7 @@ def random_failures_to_file(ug):
 
 
 def degree_failures(ug):
-    for i in xrange(40):
+    for i in xrange(5):
         out = open('simulation_results/fail_degree' + str(i) + '.txt', 'w')
 
         num_people = 1000
@@ -221,7 +221,7 @@ def degree_failures(ug):
 
 
 def line_fail(ug):
-    for i in xrange(40):
+    for i in xrange(100):
         out = open('simulation_results/line_fail' + str(i) + '.txt', 'w')
 
         num_people = 1000
@@ -237,7 +237,7 @@ def line_fail(ug):
             for c in lconnections:
                 if c in c.start.connections:
                     c.start.connections.remove(c)
-                    print 'removed'
+                    # print 'removed'
             ave_time, num_people = average_travel_time(ug, people)
             out.write(str((ave_time, num_people, line_name)))
             out.write('\n')
@@ -253,7 +253,7 @@ def terrorism(ug):
     top_10_stations = map(lambda x: ug[x].name, sorted(
         ug.stations, key=lambda x: len(ug[x].connections)))[-10:]
 
-    for i in xrange(40):
+    for i in xrange(12, 22):
         out = open('simulation_results/terrorism' + str(i) + '.txt', 'w')
 
         num_people = 1000
@@ -317,6 +317,7 @@ __color_for_line = {'northern': 'black',
 
 def main():
     ug = parsing.load_underground()
+    print degree_distribution(ug)
     # for l in ug.lines:
     #     print l
     # plot_degree_distribution(ug)
@@ -334,22 +335,22 @@ def main():
 # twopi, gvcolor, wc, ccomps, tred, sccmap, fdp, circo, neato, acyclic,
 # nop, gvpr, dot, sfdp.
 
-    try:
-        random_failures_to_file(ug)
-    except Exception, e:
-        pass
-    try:
-        degree_failures(ug)
-    except Exception, e:
-        pass
-    try:
-        line_fail(ug)
-    except Exception, e:
-        pass
-    try:
-        terrorism(ug)
-    except Exception, e:
-        pass
+    # try:
+    #     random_failures_to_file(ug)
+    # except Exception, e:
+    #     pass
+    # try:
+    #     degree_failures(ug)
+    # except Exception, e:
+    #     pass
+    # try:
+    #     line_fail(ug)
+    # except Exception, e:
+    #     pass
+    # try:
+    #     terrorism(ug)
+    # except Exception, e:
+    #     pass
 
     # s = State(ug)
     # map(lambda x: s.add_train(x), generate_trains(ug, 525))
