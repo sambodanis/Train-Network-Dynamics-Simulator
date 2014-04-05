@@ -352,6 +352,10 @@ def main():
     # except Exception, e:
     #     pass
 
+    # Planned engineering works - random with offpeak times.
+    # Non-time averaged plot of random engineering works failures.
+    # Terrorist results.
+
     # s = State(ug)
     # map(lambda x: s.add_train(x), generate_trains(ug, 525))
     # s.add_train(Train(2, 'euston', 'northern', 'southbound'))
